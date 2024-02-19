@@ -60,7 +60,7 @@ There are two endpoints in this application:
 - Login page
 - Mailhog mail server
 
-#### Login page
+### Login page
 The login page can be foun at the following URI:
 
 ```
@@ -69,8 +69,8 @@ http://localhost:8888/login
 
 ![1](https://github.com/Knign/Blog/assets/110326359/d30cd841-b922-4ebf-b035-0f50777fb8b7)
 
-#### Mailhog mail server
-The mail server can be found at the following URI:
+### Mailhog mail server
+The mail server to which emails are sent can be found at the following URI:
 
 ```
 http://localhost:8025/
