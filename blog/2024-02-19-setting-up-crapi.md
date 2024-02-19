@@ -10,7 +10,7 @@ If you want to get started with API hacking, crAPI is one of the best resources 
 In this blog post, I will walk you through the process of getting crAPI set up and running.
 
 
-## Installation
+## Cloning the Github repository
 
 Install the application from the following URI.
 
@@ -53,7 +53,7 @@ The application will take some time to install the dependancies and finish setti
 
 ## Endpoints
 
-There are two endpoints that in this application:
+There are two endpoints in this application:
 - Login page
 - Mailhog mail server
 
