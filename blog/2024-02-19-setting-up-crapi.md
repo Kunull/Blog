@@ -9,6 +9,7 @@ If you want to get started with API hacking, crAPI is one of the best resources 
 
 In this blog post, I will walk you through the process of getting crAPI set up and running.
 
+<!-- truncate -->
 
 ## Cloning the Github repository
 
