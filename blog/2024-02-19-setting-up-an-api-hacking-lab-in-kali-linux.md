@@ -2,7 +2,7 @@
 slug: setting-up-an-api-hacking-lab-in-kali-linux
 title: Setting up an API hacking lab in Kali Linux
 authors: knign
-tags: [crAPI, api hacking, Kali]
+tags: [crAPI, api hacking, Kali, Postman]
 ---
 
 In this blog post, I will walk you through the process of getting crAPI set up and running.
