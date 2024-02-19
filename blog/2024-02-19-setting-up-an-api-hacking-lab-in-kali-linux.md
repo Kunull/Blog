@@ -5,7 +5,9 @@ authors: knign
 tags: [crapi, api hacking, kali, postman]
 ---
 
-In this blog post, I will walk you through the process of getting crAPI set up and running.
+In this blog post, I will walk you through the process of setting up an API hacking lab.
+
+This can be done in any Operating System, but for the sake of this walkthrough we will be using Kali Linux.
 
 <!-- truncate -->
 
