@@ -85,4 +85,4 @@ We will be using the Postman platform in order to interact with with APIs.
 
 ### Installation
 
-You can download the Postman client from the [downloads].(https://www.postman.com/downloads/) page.
+You can download the Postman client from the [downloads](https://www.postman.com/downloads/) page.
