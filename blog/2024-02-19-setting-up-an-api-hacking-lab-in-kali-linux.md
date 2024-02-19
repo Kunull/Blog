@@ -139,3 +139,4 @@ This error can be resolved by setting the `Environment` to `Crapi`.
 ![6](https://github.com/Knign/Blog/assets/110326359/94a70411-6913-4860-a7c0-707aa5652ae5)
 
 You are now all set to practice some API hacking.
+You can check out my [write-ups for crAPI](https://kunalwalavalkarwrite-ups.vercel.app/crAPI/).
