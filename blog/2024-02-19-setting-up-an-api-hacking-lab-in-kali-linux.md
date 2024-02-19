@@ -78,3 +78,11 @@ http://localhost:8025/
 
 ![2](https://github.com/Knign/Blog/assets/110326359/2b47ed91-08d0-4af8-b9bb-a4ef3ed17576)
 
+
+
+## Postman
+We will be using the Postman platform in order to interact with with APIs.
+
+### Installation
+
+You can download the Postman client from the [downloads].(https://www.postman.com/downloads/) page.
