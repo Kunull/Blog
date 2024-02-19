@@ -1,6 +1,6 @@
 ---
-slug: setting-up-crapi-in-kali-linux
-title: Setting up crAPI in Kali Linux
+slug: setting-up-an-api-hacking-lab-in-kali-linux
+title: Setting up API hacking lab in Kali Linux
 authors: knign
 tags: [crAPI, api hacking, Kali]
 ---
