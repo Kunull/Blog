@@ -9,7 +9,7 @@ In this blog post, I will walk you through the process of getting crAPI set up a
 
 <!-- truncate -->
 
-## crAPI lab
+## crAPI machine
 ### Cloning the Github repository
 
 If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
