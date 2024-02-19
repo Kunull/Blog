@@ -1,8 +1,8 @@
 ---
-slug: setting-up-crapi
-title: Setting up crAPI 
+slug: setting-up-crapi-in-kali-linux
+title: Setting up crAPI in Kali Linux
 authors: knign
-tags: [crAPI, api hacking]
+tags: [crAPI, api hacking, Kali]
 ---
 
 If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
