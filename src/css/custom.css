@@ -120,7 +120,21 @@ article {
   background-color: var(--ifm-navbar-background-color);
 }
 
-@media screen and (min-width: 997px) {
+article header h1 {
+  font-size: 2.2rem !important;
+}
+
+.markdown>h2 {
+  --ifm-h2-font-size: 1.8rem;
+  margin-top: calc(var(--ifm-h2-vertical-rhythm-top)*var(--ifm-leading));
+}
+  
+.markdown>h3 {
+  --ifm-h3-font-size: 1.4rem;
+  margin-top: calc(var(--ifm-h3-vertical-rhythm-top)*var(--ifm-leading));
+}
+
+/* @media screen and (min-width: 997px) {
   :root {
     --ifm-font-size-base: 17px;
   }  
@@ -132,4 +146,4 @@ article {
   article header h2 {
     font-size: 2rem !important;
   }
-}
+} */
