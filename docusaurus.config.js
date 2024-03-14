@@ -43,6 +43,7 @@ const config = {
       ({
         docs: false,
         blog: {
+          blogSidebarCount: 0,
           showReadingTime: true,
           routeBasePath: '/',
         },
