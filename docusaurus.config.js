@@ -84,7 +84,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Knign',
+            href: 'https://github.com/KuNull',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'Github',
-                href: 'https://github.com/Knign',
+                href: 'https://github.com/KuNull',
               },
               {
                 href: 'https://www.linkedin.com/in/kunalwalavalkar/',
