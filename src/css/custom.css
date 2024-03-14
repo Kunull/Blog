@@ -91,7 +91,7 @@ element.style {
 }
 
 article {
-  max-width: 750px;
+/*   max-width: 750px; */
   margin-left: auto;
   margin-right: auto;
 }
