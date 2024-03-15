@@ -1,7 +1,7 @@
 ---
 slug: starting-a-blog
 title: Starting a blog
-authors: knign
+authors: kunull
 tags: [general]
 ---
 
