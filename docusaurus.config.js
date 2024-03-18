@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Blog',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/play.png',
+  favicon: 'img/null.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -69,7 +69,7 @@ const config = {
         title: 'Blog | KuNull',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/play.png',
+          src: 'img/null.png',
         },
         items: [
           {
