@@ -30,7 +30,7 @@ The exam duration is 1 hour 30 minnutes, which is quite short. INE offers timers
 As for the questions, there are 46 theory question divided into three domains:
 - Cloud Concepts
 - Cloud Services
-- Cloud Security and Regulatory Compliance.
+- Cloud Security and Regulatory Compliance
 
 There are also 4 practical questions that are to be solved in the exam lab.
 
@@ -39,14 +39,11 @@ There are also 4 practical questions that are to be solved in the exam lab.
 For passing the required grade is 75% which is further divided as follows:
 
 ### Theory
-#### Cloud Concepts
-Required grade: 72%
+#### Cloud Concepts: 72%
 
-#### Cloud Services
-Required grade: 75%
+#### Cloud Services: 75%
 
-### Cloud Security and Regulatory Compliance.
-Required grade: 65%
+#### Cloud Security and Regulatory Compliance: 65%
 
 ### Practical
 Required grade: 2 out of 4 questions
