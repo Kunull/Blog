@@ -45,8 +45,8 @@ html[data-theme='light'] .navbar .navbar__logo {
   --ifm-breadcrumb-item-background-active: #222;
   --ifm-navbar-background-color: #222;
   --ifm-footer-background-color: #222;
-  --ifm-color-primary-darkest: rgba(80, 80, 80, 1);
-  --ifm-color-primary-darker: rgba(100, 100, 100, 1);
+  --ifm-color-primary-darkest: rgba(40, 40, 40, 1);
+  --ifm-color-primary-darker: rgba(70, 70, 70, 1);
   --ifm-color-primary-dark: rgba(120, 120, 120, 1);
   --ifm-color-primary: rgba(140, 140, 140, 1);
   --ifm-color-primary-light: rgba(200, 200, 200, 1);
