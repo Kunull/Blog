@@ -11,7 +11,7 @@ I recently passed the INE Certified Cloud Associate (ICCA) exam. In this post I 
 
 I must preface that I am not an absolute beginner when it comes to Cloud technology, having some experience due to college.
 
-# Course material
+## Course material
 
 The course material is relatively short when compared to other certification. However that makes sense considering that ICCA is focused towards cloud beginners.
 
