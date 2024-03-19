@@ -13,7 +13,7 @@ I must preface that I am not an absolute beginner when it comes to Cloud technol
 
 # Course material
 
-The cousrse material is relatively short when compared to other certification. However that makes sense considering that ICCA is focused towards cloud beginners.
+The course material is relatively short when compared to other certification. However that makes sense considering that ICCA is focused towards cloud beginners.
 
 The course is around 16 hours long with 9 labs included. These labs are what made the course worth it in my opinion as you could test your hands on the top three vendors' (AWS, Azure, Google Cloud) dashboards. There are some terms and conditions that you have to accept which are well within reason.
 
