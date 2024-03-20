@@ -95,44 +95,44 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'light',
-        links: [
-          {
-            title: 'Other collections',
-            items: [
-              {
-                label: 'Write-ups',
-                href: 'https://kunalwalavalkarwrite-ups.vercel.app',
-              },
-            ],
-          },
+      // footer: {
+      //   style: 'light',
+      //   links: [
+      //     {
+      //       title: 'Other collections',
+      //       items: [
+      //         {
+      //           label: 'Write-ups',
+      //           href: 'https://kunalwalavalkarwrite-ups.vercel.app',
+      //         },
+      //       ],
+      //     },
           
-          {
-            title: 'Socials',
-            items: [
-              {
-                label: 'Main site',
-                href: 'https://kunalwalavalkar.vercel.app',
-              },
-              {
-                label: 'Github',
-                href: 'https://github.com/KuNull',
-              },
-              {
-                href: 'https://www.linkedin.com/in/kunalwalavalkar/',
-                label: 'LinkedIn',
-              },
-              // {
-              //   label: 'Email',
-              //   href: 'walavalkarkunal@skiff.com',
-              // },
-            ],
-          },
+      //     {
+      //       title: 'Socials',
+      //       items: [
+      //         {
+      //           label: 'Main site',
+      //           href: 'https://kunalwalavalkar.vercel.app',
+      //         },
+      //         {
+      //           label: 'Github',
+      //           href: 'https://github.com/KuNull',
+      //         },
+      //         {
+      //           href: 'https://www.linkedin.com/in/kunalwalavalkar/',
+      //           label: 'LinkedIn',
+      //         },
+      //         // {
+      //         //   label: 'Email',
+      //         //   href: 'walavalkarkunal@skiff.com',
+      //         // },
+      //       ],
+      //     },
           
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kunal Walavalkar.`,
-      },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} Kunal Walavalkar.`,
+      // },
       prism: {
         theme: prismThemes.vsDark,
       },
