@@ -75,7 +75,7 @@ const config = {
           {
             href: 'https://kunalwalavalkarwrite-ups.vercel.app',
             label: 'Write-ups',
-            position: 'left',
+            position: 'right',
           },
           
           {
