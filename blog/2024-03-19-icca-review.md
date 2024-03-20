@@ -11,7 +11,7 @@ I recently passed the INE Certified Cloud Associate (ICCA) exam with a score of 
 
 I must preface that I am not an absolute beginner when it comes to Cloud technology, having some experience due to college.
 
-The course material and exam voucher cost $99 USD. I got both with the Fundamental's Annual plan
+The course material and exam voucher cost $99 USD. I got both with the Fundamental's Annual plan.
 
 ## Course material
 
@@ -48,4 +48,8 @@ For passing the required grade is 75% which is further divided as follows:
 ### Practical
 Required grade: 2 out of 4 questions
 
-Overall, I would say that the exam is worth it.
+
+## Final Verdict
+Overall, I would say that the exam is worth it if you get in the Fundamentals plan along with the eJPT. 
+I would not spend $99 USD just to get this certification. I believe you'd be better off getting a vendor specific certification from Azure ([AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) / [SC-100](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/)) or AWS ([AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)).
+Speaking of the eJPT, that is the next certification that I'll be going for. 
