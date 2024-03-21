@@ -45,7 +45,7 @@ html[data-theme='light'] .navbar .navbar__logo {
   --ifm-menu-color-background-active: #222;
   --ifm-menu-color-background-hover: #222;
   --ifm-breadcrumb-item-background-active: #222;
-  --ifm-navbar-background-color: #222;
+  --ifm-navbar-background-color: rgba(0, 0, 0, 0.95);
   --ifm-footer-background-color: #222;
   --ifm-color-primary-darkest: rgba(60, 60, 60, 1);
   --ifm-color-primary-darker: rgba(80, 80, 80, 1);
@@ -116,7 +116,7 @@ aside.docSidebarContainer_YfHR {
 }
 
 nav.menu_SIkG {
-  padding: 1.5rem 1rem 1rem 1.5rem;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
 }
 
 .token-line {
@@ -146,12 +146,23 @@ nav.menu_SIkG {
     background: #222;
 }
 
-
-
 /* element.style {
     color: rgb(248, 248, 242);
     background-color: rgb(30 62 255);
 } */
+
+
+
+/* DOCS */
+
+/* Width */
+.mainWrapper_z2l0 {
+    margin: 0 auto;
+    width: 98%;
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+}
 
 
 
@@ -161,8 +172,11 @@ nav.menu_SIkG {
 /* article {
   max-width: 800px;
   margin-left: auto;
-  margin-right: auto;
-} */
+  margin-right: auto; */
+}
+
+
+
 
 /* Adjust footer link colors */
 #__docusaurus > footer > div > div.text--center > div > a {
