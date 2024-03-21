@@ -90,7 +90,7 @@ html[data-theme="dark"] .navbar-sidebar {
 
 /* Lower border */
 .navbar {
-  border-bottom: 1px solid #222222;
+  border-bottom: 1px solid #333333;
 }
 
 /* Glassmorphism */
@@ -123,10 +123,20 @@ nav.menu_SIkG {
   color: #000;
 }
 
-.menu__list-item:not(:first-child) {
+.menu__list-item {
   margin-top: 0.25rem;
   font-size: 0.9rem;
 }
+
+
+
+/* IN PAGE ITEMS */
+
+/* Left border */
+.table-of-contents__left-border {
+    border-left: 1px solid #333333;
+}
+
 
 code { 
   background-color: #222;
