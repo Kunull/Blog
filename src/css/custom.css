@@ -90,7 +90,7 @@ html[data-theme="dark"] .navbar-sidebar {
 
 /* Lower border */
 .navbar {
-  border-bottom: 1px solid var(--ifm-toc-border-color);
+  border-bottom: 1px solid #222222;
 }
 
 /* Glassmorphism */
