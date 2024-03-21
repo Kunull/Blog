@@ -138,6 +138,7 @@ nav.menu_SIkG {
 }
 
 
+
 /* BREADCRUMBS */
 
 /* Background color */
@@ -146,10 +147,12 @@ nav.menu_SIkG {
 }
 
 
-element.style {
+
+/* element.style {
     color: rgb(248, 248, 242);
     background-color: rgb(30 62 255);
-}
+} */
+
 
 
 /* ARTICLE */
