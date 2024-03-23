@@ -112,7 +112,7 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 /* Padding */
 .container{
-    padding: 0
+    padding: 1rem;
 }
 
 
