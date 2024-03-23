@@ -109,6 +109,12 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 
 
+.col, .container {
+    padding: 0
+}
+
+
+
 /* SIDEBAR */
 
 /* Width */
