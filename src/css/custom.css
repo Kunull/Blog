@@ -111,7 +111,7 @@ nav.navbar:not(.navbar-sidebar--show) {
 /* CONTAINER */
 
 /* Padding */
-.container .margin-vert--lg {
+.container{
     padding: 0
 }
 
