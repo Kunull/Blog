@@ -119,12 +119,6 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 /* SIDEBAR */
 
-/* Width */
-
-.col--3 {
-    --ifm-col-width: 17.5%;
-}
-
 aside.docSidebarContainer_YfHR {
     border-right: 0px;
 }
@@ -145,11 +139,6 @@ nav.menu_SIkG {
 
 
 /* IN PAGE ITEMS */
-
-/* Witdh */
-.col--2 {
-    --ifm-col-width: 17.5%;
-}
 
 /* Left border */
 .table-of-contents__left-border {
@@ -208,11 +197,6 @@ table thead tr {
 /* ARTICLE */
 
 /* Width */
-
-.col--7 {
-    --ifm-col-width: 65%;
-}
-
 /* article {
   max-width: 800px;
   margin-left: auto;
