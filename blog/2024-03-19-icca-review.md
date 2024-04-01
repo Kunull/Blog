@@ -38,7 +38,7 @@ There are also 4 practical questions that are to be solved in the exam lab.
 
 ## Passing requirements
 
-For passing the required grade is 75% which is further divided as follows:
+For passing the overall required grade is 75% which is further divided as follows:
 
 ### Theory
 
