@@ -36,19 +36,19 @@ As for the questions, there are 46 theory question divided into three domains:
 
 There are also 4 practical questions that are to be solved in the exam lab.
 
-## Passing grades
+## Passing requirements
 
 For passing the required grade is 75% which is further divided as follows:
 
 ### Theory
-#### Cloud Concepts: 72%
 
-#### Cloud Services: 75%
-
-#### Cloud Security and Regulatory Compliance: 65%
+- Cloud Concepts: 72%
+- Cloud Services: 75%
+- Cloud Security and Regulatory Compliance: 65%
 
 ### Practical
-Required grade: 2 out of 4 questions
+
+- 2 questions correctly answered out of 4.
 
 
 ## Final Verdict
