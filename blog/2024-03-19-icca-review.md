@@ -11,7 +11,7 @@ I recently passed the INE Certified Cloud Associate (ICCA) exam with a score of 
 
 ![ICCA](https://github.com/Kunull/Blog/assets/110326359/af260c98-bd72-4bd2-b9c6-542dcf2830c0)
 
-I must preface that I am not an absolute beginner when it comes to Cloud technology, having some experience due to college.
+I must preface that I am not an absolute beginner when it comes to Cloud technology, having some experience from my college course.
 
 The course material and exam voucher cost $99 USD. I got both with the Fundamental's Annual plan.
 
