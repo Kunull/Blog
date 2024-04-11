@@ -10,4 +10,4 @@ As such I will be reviewing both of my attempts and providing some tips so that 
 
 <!-- truncate -->
 
-![ejpt](https://github.com/Kunull/Blog/assets/110326359/fdb04507-cc04-4d85-a9ac-b2859e4230a2)
+![ejpt](https://github.com/Kunull/Blog/assets/110326359/a444c80e-1495-41b9-8fa6-c6c72bfdd45c)
