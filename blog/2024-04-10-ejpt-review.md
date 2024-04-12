@@ -5,8 +5,8 @@ authors: kunull
 tags: [certification]
 ---
 
-I have finished my eJPT certification in my second attempt (More on this).
-As such I will be reviewing both of my attempts and providing some tips so that you do not need a second attempt.
+I have achieved my eJPT certification finally.
+As such I will be reviewing both of my experience and providing some tips.
 
 <!-- truncate -->
 
