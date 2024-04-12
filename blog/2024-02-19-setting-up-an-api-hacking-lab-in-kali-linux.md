@@ -5,16 +5,16 @@ authors: kunull
 tags: [crapi, api hacking, kali, postman]
 ---
 
-In this blog post, I will walk you through the process of setting up an API hacking lab.
-
-<!-- truncate -->
+If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
 
 This can be done in any Operating System, but for the sake of this walkthrough we will be using Kali Linux.
 
+
+<!-- truncate -->
+
+
 ## crAPI machine
 ### Cloning the Github repository
-
-If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
 
 Install the application from the following URI.
 
