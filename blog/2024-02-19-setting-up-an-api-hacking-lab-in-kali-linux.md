@@ -6,7 +6,6 @@ tags: [crapi, api hacking, kali, postman]
 ---
 
 If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
-
 This can be done in any Operating System, but for the sake of this walkthrough we will be using Kali Linux.
 
 
