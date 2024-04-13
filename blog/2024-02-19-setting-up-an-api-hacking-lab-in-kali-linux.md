@@ -115,7 +115,7 @@ Now you can run the application with the `postman` command.
 
 ### Importing the crAPI collection into Postman
 
-Before we get strted, we need to import the collection of requests the crAPI endpoints in the Postman dashboard.
+Before we get started, we need to import the collection of requests the crAPI endpoints in the Postman dashboard.
 
 ![2](https://github.com/Knign/Blog/assets/110326359/5693aa9c-8fe1-409e-91c0-3dbfb59a2e30)
 
