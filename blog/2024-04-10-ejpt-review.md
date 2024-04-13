@@ -6,7 +6,7 @@ tags: [certification]
 ---
 
 I have achieved my eJPT certification finally.
-As such I will be reviewing both of my experience and providing some tips.
+As such I will be reviewing my experience and providing some tips.
 
 <!-- truncate -->
 
