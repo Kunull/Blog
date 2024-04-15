@@ -52,4 +52,4 @@ Overall I would say that the exam was a very fun experience, being my first prac
 
 
 ## What next
-As for my future plans, I will be preparing for the OSCP using whatever free resources I can find. Even though I cannot take the exam right now, I can start preparing for whenever I'll be able to take it.
+As for my future plans, I will be learning more using whatever free resources I can find.
