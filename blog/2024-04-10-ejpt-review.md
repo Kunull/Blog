@@ -29,7 +29,7 @@ I failed that attempt with a score of 65% (the passing score being 70%).
 
 Even though I was confident that most of my answers were correct, I made a severe error in my approach.
 
-Before atttemptin the exam I had read in a couple different reviews that one should treat the exam like an actual pentest and not a CTF. Even INE makes you aware of this fact in their "Letter of Engagement".
+Before attempting the exam I had read in a couple different reviews that one should treat the exam like an actual pentest and not a CTF. Even INE makes you aware of this fact in their "Letter of Engagement".
 
 ![image](https://github.com/Kunull/Blog/assets/110326359/5e447490-fb1f-45a3-adab-bfbc1bb2c7ae)
 
