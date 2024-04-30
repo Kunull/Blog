@@ -73,11 +73,22 @@ const config = {
         },
         items: [
           {
-            href: 'https://kunalwalavalkarwrite-ups.vercel.app',
-            label: 'Write-ups',
+            type: 'dropdown',
+            label: 'Other Collections',
             position: 'right',
+            items: [
+              {
+                label: 'Write-ups',
+                href: 'https://writeups-kunull.vercel.app',
+              },
+              // ... more items
+            ],
           },
-          
+          // {
+          //   href: 'https://kunalwalavalkarwrite-ups.vercel.app',
+          //   label: 'Write-ups',
+          //   position: 'right',
+          // },          
           {
             href: 'https://kunalwalavalkar.vercel.app',
             label: 'Main site',
