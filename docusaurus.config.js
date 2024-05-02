@@ -7,7 +7,7 @@
 
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import MyPrismTheme from '/src/prismThemes/vsDark.js';
+import MyPrismTheme from '@site/src/prismThemes/vsDark.js';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
