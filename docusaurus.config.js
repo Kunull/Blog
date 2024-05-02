@@ -146,7 +146,7 @@ const config = {
       //   copyright: `Copyright © ${new Date().getFullYear()} Kunal Walavalkar.`,
       // },
       prism: {
-        const darkCodeTheme = require("./src/prismThemes/vsDark.js");
+        theme: MyPrismTheme
       },
 
       
