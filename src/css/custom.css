@@ -137,6 +137,13 @@ nav.menu_SIkG {
   font-size: 0.9rem;
 }
 
+/* Mobile version */
+.navbar-sidebar__item {
+    flex-shrink: 0;
+    padding: 1rem 1.5rem;
+    width: calc(var(--ifm-navbar-sidebar-width));
+}
+
 
 
 /* IN PAGE ITEMS */
