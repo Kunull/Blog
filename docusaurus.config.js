@@ -7,7 +7,6 @@
 
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import MyPrismTheme from '/src/prism-themes/vsDark.js'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -146,7 +145,7 @@ const config = {
       //   copyright: `Copyright © ${new Date().getFullYear()} Kunal Walavalkar.`,
       // },
       prism: {
-        theme: MyPrismTheme
+        theme: prismThemes.vsDark
       },
 
       
