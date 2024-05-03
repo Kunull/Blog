@@ -86,6 +86,7 @@ html[data-theme="dark"] .navbar-sidebar {
 } */
 
 
+
 /* NAVBAR */
 
 /* Lower border */
@@ -120,6 +121,11 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 /* SIDEBAR */
 
+/* 20% width */
+.col--3 {
+    --ifm-col-width: 20%;
+}
+
 aside.docSidebarContainer_YfHR {
     border-right: 0px;
 }
@@ -151,6 +157,11 @@ nav.menu_SIkG {
 /* Left border */
 .table-of-contents__left-border {
     border-left: 1px solid #333333;
+}
+
+/* 20% width */
+.col--2 {
+    --ifm-col-width: 20%;
 }
 
 
@@ -200,6 +211,10 @@ table thead tr {
     flex-direction: column;
 }
 
+.col--7 {
+    --ifm-col-width: 60%;
+}
+
 
 
 /* ARTICLE */
@@ -239,16 +254,9 @@ table thead tr {
 
 
 
+/* MAIN CONATAINER */
 
-
-
-
-
-
-
-
-
-
+/* Width */
 @media (min-width: 1440px) {
     .container {
         max-width: 100%;
