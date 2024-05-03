@@ -249,6 +249,8 @@ table thead tr {
 
 
 
-.container {
-  max-width: 100%;
+@media (min-width: 1440px) {
+    .container {
+        max-width: 100%;
+    }
 }
