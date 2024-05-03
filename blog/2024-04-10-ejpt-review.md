@@ -16,7 +16,7 @@ As such I will be reviewing my experience and providing some tips.
 ## Training material
 I managed to finish the trainig material in just under 30 days.
 
-All of his courses are a must if you want to be a successful Penetration Tester. However, if your aim to just pass the exam, all the courses are not required to achieve that.
+All of the courses are a must if you want to be a successful Penetration Tester. However, if your aim to just pass the exam, all the courses are not required to achieve that.
 I went through all the courses taught my [Alexis Ahmed](https://www.linkedin.com/in/alexisahmed/?originalSubdomain=ke).
 In the case of [Josh Mason](https://www.linkedin.com/in/joshuacmason/), I only did his "Web Application Penetration Testing: Introduction to the Web and HTTP Protocol" course before attempting the exam.
 
