@@ -262,3 +262,8 @@ article {
         max-width: 100%;
     }
 }
+
+.container {
+    margin: 0;
+    max-width: 100%;
+}
