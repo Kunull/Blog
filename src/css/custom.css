@@ -150,6 +150,12 @@ nav.menu_SIkG {
     width: calc(var(--ifm-navbar-sidebar-width));
 }
 
+/* Top */
+.sidebar_re4s {
+    position: sticky;
+    top: 0;
+}
+
 
 
 /* IN PAGE ITEMS */
