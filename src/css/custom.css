@@ -113,6 +113,11 @@ html[data-theme="dark"] .navbar-sidebar {
 
 /* ARTICLE */
 
+/* 60% width */
+.col--7 {
+    --ifm-col-width: 60%;
+}
+
 /* Width */
 article {
   max-width: 800px;
@@ -124,11 +129,6 @@ article {
 .margin-top--lg, .margin-vert--lg {
     margin-top: 1.5rem !important;
 }
-
-/* 65% width */
-/* .col--7 {
-    --ifm-col-width: 60%;
-} */
 
 
 
@@ -166,10 +166,10 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 /* SIDEBAR */
 
-/* 17.5% width */
-/* .col--3 {
+/* 20% width */
+.col--3 {
     --ifm-col-width: 20%;
-} */
+}
 
 aside.docSidebarContainer_YfHR {
     border-right: 0px;
@@ -205,15 +205,15 @@ nav.menu_SIkG {
 
 /* IN PAGE ITEMS */
 
+/* 20% width */
+.col--2 {
+    --ifm-col-width: 20%;
+}
+
 /* Left border */
 .table-of-contents__left-border {
     border-left: 1px solid #333333;
 }
-
-/* 17.5% width */
-/* .col--2 {
-    --ifm-col-width: 20%;
-} */
 
 
 
