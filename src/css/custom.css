@@ -115,7 +115,7 @@ html[data-theme="dark"] .navbar-sidebar {
 
 /* Width */
 article {
-  max-width: 850px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -127,7 +127,7 @@ article {
 
 /* 65% width */
 .col--7 {
-    --ifm-col-width: 65%;
+    --ifm-col-width: 60%;
 }
 
 
@@ -168,7 +168,7 @@ nav.navbar:not(.navbar-sidebar--show) {
 
 /* 17.5% width */
 .col--3 {
-    --ifm-col-width: 17.5%;
+    --ifm-col-width: 20%;
 }
 
 aside.docSidebarContainer_YfHR {
@@ -212,7 +212,7 @@ nav.menu_SIkG {
 
 /* 17.5% width */
 .col--2 {
-    --ifm-col-width: 17.5%;
+    --ifm-col-width: 20%;
 }
 
 
