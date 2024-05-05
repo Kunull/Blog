@@ -206,7 +206,7 @@ table thead tr {
 
 
 
-/* DOCS */
+/* MAIN WRAPPER */
 
 /* Width */
 .mainWrapper_z2l0 {
@@ -216,10 +216,6 @@ table thead tr {
     flex: 1 0 auto;
     flex-direction: column;
 }
-
-/* .col--7 {
-    --ifm-col-width: 60%;
-} */
 
 
 
@@ -236,6 +232,11 @@ article {
 .margin-top--lg, .margin-vert--lg {
     margin-top: 1.5rem !important;
 }
+
+/* 60% width */
+/* .col--7 {
+    --ifm-col-width: 60%;
+} */
 
 
 
