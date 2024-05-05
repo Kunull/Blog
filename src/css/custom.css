@@ -122,9 +122,9 @@ nav.navbar:not(.navbar-sidebar--show) {
 /* SIDEBAR */
 
 /* 20% width */
-.col--3 {
+/* .col--3 {
     --ifm-col-width: 20%;
-}
+} */
 
 aside.docSidebarContainer_YfHR {
     border-right: 0px;
@@ -166,9 +166,9 @@ nav.menu_SIkG {
 }
 
 /* 20% width */
-.col--2 {
+/* .col--2 {
     --ifm-col-width: 20%;
-}
+} */
 
 
 
@@ -217,9 +217,9 @@ table thead tr {
     flex-direction: column;
 }
 
-.col--7 {
+/* .col--7 {
     --ifm-col-width: 60%;
-}
+} */
 
 
 
