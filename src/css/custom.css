@@ -64,29 +64,28 @@ html[data-theme='light'] .navbar .navbar__logo {
   --ifm-alert-border-color: var(--ifm-color-emphasis-200);
 }
 
-
-
-/* CODE BLOCK */
-
 html[data-theme="dark"] {
   --ifm-background-color: #000;
-  --ifm-code-background: rgb(15, 15, 15);
+  --ifm-code-background: rgb(20,20,20);
 }
 
 html[data-theme="dark"] .navbar-sidebar {
   background: #000;
 }
 
+
+
+/* CODE BLOCK (Single word) */
+
 code {
-    color: #666;
+    color: #999;
     background-color: var(--ifm-code-background);
     border: 1px solid #333;
     border-radius: var(--ifm-code-border-radius);
     font-family: var(--ifm-font-family-monospace);
     font-size: var(--ifm-code-font-size);
-    padding: var(--ifm-code-padding-vertical) var(--ifm-code-padding-horizontal);
+    padding: 0.2rem;
 }
-
 
 
 
