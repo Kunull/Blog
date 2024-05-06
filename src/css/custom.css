@@ -126,6 +126,10 @@ code {
     max-width: 100%;
 }
 
+.col--offset-1 {
+    margin: 0 auto;
+}
+
 
 
 /* MAIN WRAPPER */
@@ -235,9 +239,10 @@ nav.menu_SIkG {
 
 /* IN PAGE ITEMS */
 
-/* 20% width */
+/* Display: none */
 .col--2 {
     --ifm-col-width: 20%;
+    display: none;
 }
 
 /* Left border */
