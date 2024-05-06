@@ -162,21 +162,13 @@ nav.navbar:not(.navbar-sidebar--show) {
     background-color: rgb(0, 0, 0, 0.75);
 }
 
-/* Width */
-/* .navbar__inner {
+/* Inner width */
+.navbar__inner {
     margin: 0 auto;
-    max-width: 1420px;
-    padding: 0 16px;
-} */
-
-
-/* CONTAINER */
-
-/* Padding */
-/* .container{
-    padding: 1rem;
+    max-width: 1460px;
 }
- */
+
+
 
 
 /* SIDEBAR */
