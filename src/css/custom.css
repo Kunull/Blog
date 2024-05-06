@@ -98,6 +98,20 @@ code {
 
 
 
+/* COPY BUTTON */
+/* Border */
+.buttonGroup__atx button {
+    border: 1px solid #333;
+}
+
+/* Background color */
+.buttonGroup__atx button, .codeBlockContainer_Ckt0 {
+    background: rgb(20,20,20);
+    color: #333;
+}
+
+
+
 /* MAIN CONATAINER */
 
 /* Width */
