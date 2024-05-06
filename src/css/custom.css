@@ -64,7 +64,7 @@ html[data-theme='light'] .navbar .navbar__logo {
   --ifm-alert-border-color: var(--ifm-color-emphasis-200);
 }
 
-html[data-theme="dark"] {
+/* html[data-theme="dark"] {
   --ifm-background-color: #000;
   --ifm-code-background: #222222;
 }
@@ -78,7 +78,31 @@ table {
 
 html[data-theme="dark"] .navbar-sidebar {
   background: #000;
+} */
+
+
+
+/* CODE BLOCK */
+
+html[data-theme="dark"] {
+  --ifm-background-color: #000;
+  --ifm-code-background: rgb(15, 15, 15);
 }
+
+html[data-theme="dark"] .navbar-sidebar {
+  background: #000;
+}
+
+code {
+    color: #666;
+    background-color: var(--ifm-code-background);
+    border: 1px solid #333;
+    border-radius: var(--ifm-code-border-radius);
+    font-family: var(--ifm-font-family-monospace);
+    font-size: var(--ifm-code-font-size);
+    padding: var(--ifm-code-padding-vertical) var(--ifm-code-padding-horizontal);
+}
+
 
 
 
@@ -246,7 +270,17 @@ table td, table th {
 }
 
 table thead tr {
-    border-bottom: 2px solid #333333;
+    border-bottom: 1px solid #333333;
+}
+
+/* Head */
+table thead {
+    background-color: #111;
+}
+
+/* 2n child background */
+table tr:nth-child(2n) {
+    background-color: #000;
 }
 
 
