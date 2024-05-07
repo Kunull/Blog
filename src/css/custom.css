@@ -157,7 +157,7 @@ code {
 
 /* 60% width */
 .col--7 {
-    --ifm-col-width: 60%;
+    --ifm-col-width: 75%;
 }
 
 /* Width */
@@ -241,8 +241,8 @@ nav.menu_SIkG {
 
 /* Display: none */
 .col--2 {
-    --ifm-col-width: 20%;
-    display: none;
+    --ifm-col-width: 25%;
+/*     display: none; */
 }
 
 /* Left border */
