@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/null_medium.png',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Knign', // Usually your GitHub org/user name.
-  projectName: 'Write-ups', // Usually your repo name.
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'Blog | Knign', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -42,11 +42,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          breadcrumbs: false,
           sidebarPath: './sidebars.js',
         },
         blog: {
-        routeBasePath: '/',
+          showReadingTime: true,
+          routeBasePath: '/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -66,7 +67,7 @@ const config = {
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Blog | Kunull',
+        title: 'Blog | Knign',
         logo: {
           alt: 'My Site Logo',
           src: 'img/null_medium.png',
@@ -88,24 +89,22 @@ const config = {
           //     href: 'https://kunalwalavalkarblog.vercel.app',
           //     label: 'Blog',
           //     position: 'right',
-          // },         
+          // }, 
           {
-              href: 'https://kunalwalavalkar.vercel.app',
-              label: 'Main site',
-              position: 'right',
+            href: 'https://kunalwalavalkar.vercel.app',
+            label: 'Main site',
+            position: 'right',
           },
-          
           {
-              href: 'https://github.com/kunull',
-              label: 'GitHub',
-              position: 'right',
+            href: 'https://github.com/Knign',
+            label: 'GitHub',
+            position: 'right',
           },
-          
           {
-              href: 'https://www.linkedin.com/in/kunalwalavalkar/',
-              label: 'LinkedIn',
-              position: 'right',
-          },  
+            href: 'https://www.linkedin.com/in/kunalwalavalkar/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
         ],
       },
       // footer: {
@@ -115,8 +114,8 @@ const config = {
       //       title: 'Other collections',
       //       items: [
       //         {
-      //           label: 'Blog',
-      //           href: 'https://kunalwalavalkarblog.vercel.app',
+      //           label: 'Write-ups',
+      //           href: 'https://kunalwalavalkarwrite-ups.vercel.app',
       //         },
       //       ],
       //     },
@@ -130,26 +129,16 @@ const config = {
       //         },
       //         {
       //           label: 'Github',
-      //           href: 'https://github.com/KuNull',
+      //           href: 'https://github.com/Knign',
       //         },
       //         {
       //           href: 'https://www.linkedin.com/in/kunalwalavalkar/',
       //           label: 'LinkedIn',
       //         },
-      //       ],
-      //     },
-
-      //     {
-      //       title: 'CTF Accounts',
-      //       items: [
-      //         {
-      //           label: 'TryHackMe',
-      //           href: 'https://tryhackme.com/p/KuNull',
-      //         },
-      //         {
-      //           label: 'Hack The Box',
-      //           href: 'https://app.hackthebox.com/profile/1158503',
-      //         },
+      //         // {
+      //         //   label: 'Email',
+      //         //   href: 'walavalkarkunal@skiff.com',
+      //         // },
       //       ],
       //     },
           
