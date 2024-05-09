@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Knign', // Usually your GitHub org/user name.
-  projectName: 'Blog', // Usually your repo name.
+  projectName: 'Write-ups', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -41,12 +41,12 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
-        blog: {
-          blogSidebarCount: 'ALL',
-          showReadingTime: true,
+        docs: {
+          breadcrumbs: false,
+          sidebarPath: './sidebars.js',
           routeBasePath: '/',
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -85,25 +85,27 @@ const config = {
             ],
           },
           // {
-          //   href: 'https://kunalwalavalkarwrite-ups.vercel.app',
-          //   label: 'Write-ups',
-          //   position: 'right',
-          // },          
+          //     href: 'https://kunalwalavalkarblog.vercel.app',
+          //     label: 'Blog',
+          //     position: 'right',
+          // },         
           {
-            href: 'https://kunalwalavalkar.vercel.app',
-            label: 'Main site',
-            position: 'right',
+              href: 'https://kunalwalavalkar.vercel.app',
+              label: 'Main site',
+              position: 'right',
           },
+          
           {
-            href: 'https://github.com/kunull',
-            label: 'GitHub',
-            position: 'right',
+              href: 'https://github.com/kunull',
+              label: 'GitHub',
+              position: 'right',
           },
+          
           {
-            href: 'https://www.linkedin.com/in/kunalwalavalkar/',
-            label: 'LinkedIn',
-            position: 'right',
-          },
+              href: 'https://www.linkedin.com/in/kunalwalavalkar/',
+              label: 'LinkedIn',
+              position: 'right',
+          },  
         ],
       },
       // footer: {
@@ -113,8 +115,8 @@ const config = {
       //       title: 'Other collections',
       //       items: [
       //         {
-      //           label: 'Write-ups',
-      //           href: 'https://kunalwalavalkarwrite-ups.vercel.app',
+      //           label: 'Blog',
+      //           href: 'https://kunalwalavalkarblog.vercel.app',
       //         },
       //       ],
       //     },
@@ -134,10 +136,20 @@ const config = {
       //           href: 'https://www.linkedin.com/in/kunalwalavalkar/',
       //           label: 'LinkedIn',
       //         },
-      //         // {
-      //         //   label: 'Email',
-      //         //   href: 'walavalkarkunal@skiff.com',
-      //         // },
+      //       ],
+      //     },
+
+      //     {
+      //       title: 'CTF Accounts',
+      //       items: [
+      //         {
+      //           label: 'TryHackMe',
+      //           href: 'https://tryhackme.com/p/KuNull',
+      //         },
+      //         {
+      //           label: 'Hack The Box',
+      //           href: 'https://app.hackthebox.com/profile/1158503',
+      //         },
       //       ],
       //     },
           
