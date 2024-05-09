@@ -241,7 +241,7 @@ nav.menu_SIkG {
 
 /* Display: none */
 .col--2 {
-    --ifm-col-width: 25%;
+    --ifm-col-width: 20%;
 /*     display: none; */
     padding-left: 0;
 }
