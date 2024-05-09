@@ -44,9 +44,9 @@ const config = {
         docs: {
           breadcrumbs: false,
           sidebarPath: './sidebars.js',
-          routeBasePath: '/',
         },
-        blog: false,
+        blog: {
+        routeBasePath: '/',
         theme: {
           customCss: './src/css/custom.css',
         },
