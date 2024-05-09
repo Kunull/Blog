@@ -156,9 +156,9 @@ code {
 /* ARTICLE */
 
 /* 60% width */
-/* .col--7 {
-    --ifm-col-width: 75%;
-} */
+.col--7 {
+    --ifm-col-width: 60%;
+}
 
 /* Width */
 article {
@@ -201,9 +201,9 @@ nav.navbar:not(.navbar-sidebar--show) {
 /* SIDEBAR */
 
 /* 20% width */
-/* .col--3 {
+.col--3 {
     --ifm-col-width: 20%;
-} */
+}
 
 aside.docSidebarContainer_YfHR {
     border-right: 0px;
@@ -241,8 +241,8 @@ nav.menu_SIkG {
 
 /* Display: none */
 .col--2 {
-/*     --ifm-col-width: 25%; */
-    display: none;
+    --ifm-col-width: 25%;
+/*     display: none; */
     padding-left: 0;
 }
 
