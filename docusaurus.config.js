@@ -148,10 +148,14 @@ const config = {
       prism: {
         theme: prismThemes.oneDark,
       },
-
-      
+      algolia: {
+          // The application ID provided by Algolia
+        appId: 'ERR3RMELLO',
+          // Public API key: it is safe to commit it
+        apiKey: 'dd4bfe1f81798866108d44a6cf7b57d2',
+        indexName: 'kunull',
+      },
     }),
-  
 };
 
 export default config;
