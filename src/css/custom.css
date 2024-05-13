@@ -328,6 +328,7 @@ table tr:nth-child(2n) {
   --docsearch-container-background: rgba(20, 20, 20, 0.75);
   /* Modal */
   --docsearch-modal-background: rgb(20,20,20);
+  --docsearch-modal-shadow
   /* Search box */
   --docsearch-searchbox-background: var(--ifm-background-color);
   --docsearch-searchbox-focus-background: var(--ifm-color-black);
@@ -341,8 +342,19 @@ table tr:nth-child(2n) {
   --docsearch-key-shadow: 1px solid #333;
 }
 
+/* SEARCH MODAL */
+.DocSearch-Modal {
+    background: var(--docsearch-modal-background);
+    border-radius: 6px;
+    /* box-shadow: var(--docsearch-modal-shadow); */
+    flex-direction: column;
+    margin: 60px auto auto;
+    max-width: var(--docsearch-modal-width);
+    position: relative;
+    border: 1px solid #333;
+}
 
-/* Remove logo */
+/* SEARCH FOOTER */
 .DocSearch-Logo {
   display: none;
 }
