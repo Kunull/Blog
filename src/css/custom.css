@@ -317,6 +317,11 @@ table tr:nth-child(2n) {
     background-color: rgb(0, 0, 0, 0.75);
 }
 
+/* Border radius */
+.dropdown__menu {
+    border-radius: 0.25rem;
+}
+
 
 
 /* SEARCH BAR */
