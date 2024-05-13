@@ -343,6 +343,7 @@ table tr:nth-child(2n) {
   --docsearch-key-shadow: 1px solid #333;
 }
 
+
 /* SEARCH MODAL */
 .DocSearch-Modal {
     background: var(--docsearch-modal-background);
@@ -354,6 +355,15 @@ table tr:nth-child(2n) {
     position: relative;
     border: 1px solid #333;
 }
+
+
+/* SEARCH BAR */
+/* border */
+.DocSearch-Button {
+    border: 1px solid #333;
+    border-radius: 4px;
+}
+
 
 /* SEARCH FOOTER */
 .DocSearch-Logo {
