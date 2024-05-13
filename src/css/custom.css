@@ -340,3 +340,9 @@ table tr:nth-child(2n) {
   --docsearch-key-gradient: rgb(20,20,20);
   --docsearch-key-shadow: 1px solid #333;
 }
+
+
+/* Remove logo */
+.DocSearch-Logo {
+  display: none;
+}
