@@ -337,5 +337,5 @@ table tr:nth-child(2n) {
   --docsearch-hit-background: var(--ifm-color-emphasis-100);
   /* Footer */
   --docsearch-footer-background: #000;
-  --docsearch-key-gradient: #000;
+  --docsearch-key-gradient: rgb(20,20,20);
 }
