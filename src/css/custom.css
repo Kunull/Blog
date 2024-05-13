@@ -330,7 +330,7 @@ table tr:nth-child(2n) {
   --docsearch-modal-background: rgb(20,20,20);
   --docsearch-modal-shadow: #000;
   /* Search box */
-  --docsearch-searchbox-background: var(--ifm-background-color);
+  --docsearch-searchbox-background: rgb(20,20,20);
   --docsearch-searchbox-focus-background: var(--ifm-color-black);
   /* Hit */
   --docsearch-hit-color: var(--ifm-font-color-base);
