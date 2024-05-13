@@ -338,4 +338,5 @@ table tr:nth-child(2n) {
   /* Footer */
   --docsearch-footer-background: #000;
   --docsearch-key-gradient: rgb(20,20,20);
+  --docsearch-key-shadow: 1px solid #333;
 }
