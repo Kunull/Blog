@@ -374,3 +374,9 @@ table tr:nth-child(2n) {
 .DocSearch-Logo {
   display: none;
 }
+
+
+/* SEARCH RESULTS */
+.DocSearch-Hit a {
+    background: #000;
+}
