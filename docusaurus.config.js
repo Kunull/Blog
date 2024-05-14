@@ -153,6 +153,7 @@ const config = {
         apiKey: 'dd4bfe1f81798866108d44a6cf7b57d2',
         indexName: 'kunull',
         contextualSearch: false,
+        typoTolerance: false,
       },
     }),
 };
