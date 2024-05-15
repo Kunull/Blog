@@ -377,6 +377,10 @@ table tr:nth-child(2n) {
 
 /* SEARCH PAGE */
 
+html[data-theme=dark] {
+  --docsearch-searchbox-focus-background: #111;
+} 
+
 /* SEARCH BAR (Search page) */
 .searchQueryInput_u2C7, .searchVersionInput_m0Ui {
     background: #111;
