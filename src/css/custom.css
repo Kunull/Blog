@@ -373,3 +373,11 @@ table tr:nth-child(2n) {
 .DocSearch-Logo {
   display: none;
 }
+
+
+/* SEARCH PAGE */
+
+/* SEARCH BAR (Search page) */
+.searchQueryInput_u2C7, .searchVersionInput_m0Ui {
+    background: #111;
+}
