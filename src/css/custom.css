@@ -369,7 +369,7 @@ table tr:nth-child(2n) {
 }
 
 
-/* SEARCH FOOTER */
+/* Logo (SEARCH FOOTER) */
 .DocSearch-Logo {
   display: none;
 }
@@ -380,4 +380,9 @@ table tr:nth-child(2n) {
 /* SEARCH BAR (Search page) */
 .searchQueryInput_u2C7, .searchVersionInput_m0Ui {
     background: #111;
+}
+
+/* Logo (Search page) */
+searchLogoColumn_rJIA { 
+  display: none;
 }
