@@ -154,6 +154,7 @@ const config = {
         indexName: 'kunull',
         contextualSearch: false,
         typoTolerance: false,
+        maxResultsPerGroup: 9999,
       },
     }),
 };
