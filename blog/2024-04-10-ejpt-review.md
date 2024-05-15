@@ -5,7 +5,7 @@ authors: kunull
 tags: [certification]
 ---
 
-I have achieved my eJPT certification finally.
+I have recently achieved my eJPT certification.
 As such I will be reviewing my experience and providing some tips.
 
 <!-- truncate -->
