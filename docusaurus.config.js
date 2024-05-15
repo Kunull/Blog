@@ -152,7 +152,7 @@ const config = {
           // Public API key: it is safe to commit it
         apiKey: 'dd4bfe1f81798866108d44a6cf7b57d2',
         indexName: 'kunull',
-        contextualSearch: false,
+        // contextualSearch: false,
         typoTolerance: false,
         maxResultsPerGroup: 9999,
       },
