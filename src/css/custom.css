@@ -386,6 +386,7 @@ table tr:nth-child(2n) {
 /* Search bar color */
 html[data-theme=dark] {
   --docsearch-searchbox-focus-background: #111 !important;
+  border: 1px solid #333 !important;
 }
 
 /* Margin */
