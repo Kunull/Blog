@@ -51,7 +51,7 @@ For passing the overall required grade is 75% which is further divided as follow
 - 2 questions correctly answered out of 4.
 
 
-## Final Verdict
+## Parting thoughts
 Overall, I would say that the exam is worth it if you get in the Fundamentals plan along with the eJPT. 
 I would not spend $99 USD just to get this certification. I believe you'd be better off getting a vendor specific certification from Azure ([AZ-500](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/) / [SC-100](https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/)) or AWS ([AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)).
 Speaking of the eJPT, that is the next certification that I'll be going for. 
