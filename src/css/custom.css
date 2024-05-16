@@ -373,3 +373,8 @@ table tr:nth-child(2n) {
 .DocSearch-Logo {
   display: none;
 }
+
+
+html[data-theme=dark] {
+  --docsearch-searchbox-focus-background: var(--color-gray-86) !important;
+}
