@@ -393,3 +393,7 @@ html[data-theme=dark] {
 .margin-top--lg, .margin-vert--lg {
     margin-top: 1.5rem !important;
 }
+
+.DocSearch-Hit-source {
+  display: none;
+}
