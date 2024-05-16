@@ -397,3 +397,7 @@ html[data-theme=dark] {
 .DocSearch-Hit-source {
   display: none;
 }
+
+.DocSearch-Hit-source::after {
+  content: 'Blog';
+}
