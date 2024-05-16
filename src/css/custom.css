@@ -371,7 +371,7 @@ table tr:nth-child(2n) {
 
 /* Search option (selected) */
 .DocSearch-Hit[aria-selected=true] a {
-    background-color: #000 !important;
+    background-color: #111 !important;
 }
 
 /* Logo (SEARCH FOOTER) */
