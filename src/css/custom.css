@@ -400,4 +400,7 @@ html[data-theme=dark] {
 
 .DocSearch-Hit-source::after {
   content: 'Blog';
+  visibility: visible;
+  display: block;
+  position: absolute;
 }
