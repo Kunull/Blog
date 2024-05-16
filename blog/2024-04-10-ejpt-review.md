@@ -47,8 +47,9 @@ This attempt I passed with 88% (31 questions out of 35).
 
 I went through all the steps required on all the target machines. (I still missed a few things, hence only 88%). I finished the attempt in about 16 hours, even going over most of our steps once.
 
+
+
+## Parting thoughts
 Overall I would say that the exam was a very fun experience, being my first practical certification exam.
 
-
-## What next
 As for my future plans, I will be learning more using whatever free resources I can find.
