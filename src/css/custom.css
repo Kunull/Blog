@@ -376,9 +376,10 @@ table tr:nth-child(2n) {
 }
 
 /* Logo (SEARCH FOOTER) */
-/* .DocSearch-Logo {
-  display: none;
-} */
+.DocSearch-Logo {
+/*   display: none; */
+  filter: grayscale(1);
+}
 
 
 
