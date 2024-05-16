@@ -13,7 +13,7 @@ As such I will be reviewing my experience and providing some tips.
 ![ejpt](https://github.com/Kunull/Blog/assets/110326359/a444c80e-1495-41b9-8fa6-c6c72bfdd45c)
 
 
-## Training material
+## Course material
 I managed to finish the trainig material in just under 30 days.
 
 All of the courses are a must if you want to be a successful Penetration Tester. However, if your aim to just pass the exam, all the courses are not required to achieve that.
@@ -21,7 +21,8 @@ I went through all the courses taught my [Alexis Ahmed](https://www.linkedin.com
 In the case of [Josh Mason](https://www.linkedin.com/in/joshuacmason/), I only did his "Web Application Penetration Testing: Introduction to the Web and HTTP Protocol" course before attempting the exam.
 
 
-## First attempt
+## Exam
+### First attempt
 I attempted the exam for the first time on 06th of April. I finished everything in about 21 hours.
 
 I failed that attempt with a score of 65% (the passing score being 70%).
@@ -40,7 +41,7 @@ So let me save you the trouble and tell you myself:
 
 
 
-## Second attempt
+### Second attempt
 Keeping the above statement in mind, I refined my notes into more of a cheatsheet and attempted the exam a second time on 09th April.
 
 This attempt I passed with 88% (31 questions out of 35).
