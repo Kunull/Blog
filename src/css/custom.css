@@ -373,3 +373,8 @@ table tr:nth-child(2n) {
 .DocSearch-Logo {
   display: none;
 }
+
+
+.searchQueryInput_u2C7 {
+    background: #111;
+}
