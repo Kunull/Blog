@@ -87,7 +87,7 @@ code {
 
 /* CODE BLOCK (Entire block) */
 .codeBlockContainer_Ckt0 {
-  border: 1px solid #111;
+  border: 1px solid #111 !important;
 }
 
 
