@@ -109,10 +109,10 @@ code {
 } */
 
 /* Background color */
-/* .buttonGroup__atx button, .codeBlockContainer_Ckt0 {
-    background: rgb(20,20,20);
+.buttonGroup__atx button, .codeBlockContainer_Ckt0 {
+    background: rgb(20,20,20) !important;
     color: #333;
-} */
+}
 
 
 
