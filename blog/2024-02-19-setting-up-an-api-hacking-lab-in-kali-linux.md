@@ -37,7 +37,7 @@ sudo apt install docker.io
 This command will install Docker on your system. 
 After the installation is complete, you can verify that Docker has been installed correctly by running:
 
-```
+```text title="> terminal"
 docker --version
 ```
 
