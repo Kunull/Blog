@@ -92,14 +92,6 @@ code {
   border: 1px solid #333;
 }
 
-.theme-code-block {
-    --tw-shadow: 0 0 #0000 !important;
-    --tw-shadow-colored: 0 0 #0000 !important;
-    background-color: #fff !important;
-    border-width: 1px !important;
-    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
-}
-
 
 
 /* CODE BLOCK (buttons) */
@@ -110,7 +102,7 @@ code {
 
 /* Background color (title) */
 .buttonGroup__atx button, .codeBlockContainer_Ckt0 {
-    background: rgb(20,20,20) !important;
+    background: #111 !important;
     color: #333;
 }
 
