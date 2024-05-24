@@ -65,44 +65,68 @@ const config = {
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Blog | Kunull',
+        title: 'Write-ups | Kunull',
         logo: {
           alt: 'My Site Logo',
           src: 'img/null_medium.png',
         },
+
         items: [
           {
             type: 'dropdown',
-            label: 'Other Collections',
+            label: 'Other sites',
             position: 'right',
             items: [
               {
                 label: 'Write-ups',
                 href: 'https://writeups-kunull.vercel.app',
               },
-              // ... more items
+              {
+                label: 'Main site',
+                href: 'https://kunalwalavalkar.vercel.app',
+              },
             ],
           },
+
+          {
+            type: 'dropdown',
+            label: 'Socials',
+            position: 'right',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/kunull',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/kunalwalavalkar/',
+              },  
+            ],
+          },
+          
           // {
           //     href: 'https://kunalwalavalkarblog.vercel.app',
           //     label: 'Blog',
           //     position: 'right',
-          // }, 
-          {
-            href: 'https://kunalwalavalkar.vercel.app',
-            label: 'Main site',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/Knign',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            href: 'https://www.linkedin.com/in/kunalwalavalkar/',
-            label: 'LinkedIn',
-            position: 'right',
-          },
+          // },         
+
+          // {
+          //   href: 'https://kunalwalavalkar.vercel.app',
+          //   label: 'Main site',
+          //   position: 'right',
+          // },
+          
+          // {
+          //     href: 'https://github.com/kunull',
+          //     label: 'GitHub',
+          //     position: 'right',
+          // },
+          
+          // {
+          //     href: 'https://www.linkedin.com/in/kunalwalavalkar/',
+          //     label: 'LinkedIn',
+          //     position: 'right',
+          // },  
         ],
       },
       // footer: {
