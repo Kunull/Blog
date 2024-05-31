@@ -11,7 +11,7 @@ I recently finished the CNSP certification. In this post, I will review the exam
 
 ![image](https://github.com/Kunull/Blog/assets/110326359/8487ab1f-75d1-47f3-8c98-f5f095718142)
 
-## Why only exam attempt
+## How I got the exam voucher
 
 The SecOps Group, the certification authority were offering a scholarship for the CNSP exam attempt. 
 I checked out the syllabus of the exam and found out that it was a theory based exam.
