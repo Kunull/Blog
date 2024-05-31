@@ -1,7 +1,6 @@
 ---
 slug: setting-up-an-api-hacking-lab-in-kali-linux
 title: Setting up an API hacking lab in Kali Linux
-authors: kunull
 tags: [api security]
 ---
 
