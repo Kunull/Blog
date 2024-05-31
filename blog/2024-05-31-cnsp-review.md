@@ -31,4 +31,4 @@ I managed to finish the exam in around 30 minutes.
 
 ## Parting thoughts
 
-The original price for the certification is $100 USD. That is not really something I would pay for this exam.
+The original price for the certification is $100 USD. Although the certification covers a lot of topics, that is not really the price I would pay of it.
