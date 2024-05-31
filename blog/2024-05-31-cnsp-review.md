@@ -1,5 +1,5 @@
 ---
-slug: icca-review
+slug: cnsp-review
 title: Certified Network Security Practitioner review
 authors: kunull
 tags: [certification]
