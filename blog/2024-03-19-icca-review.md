@@ -1,7 +1,6 @@
 ---
 slug: icca-review
 title: INE Certified Cloud Associate review
-authors: kunull
 tags: [certification]
 ---
 
