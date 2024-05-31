@@ -1,7 +1,6 @@
 ---
 slug: ejpt-review
 title: eLearnSecurity Junior Penetration Tester review
-authors: kunull
 tags: [certification]
 ---
 
