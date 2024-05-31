@@ -9,7 +9,7 @@ I recently finished the CNSP certification. In this post, I will review the exam
 
 <!-- truncate -->
 
-![image](https://github.com/Kunull/Blog/assets/110326359/8487ab1f-75d1-47f3-8c98-f5f095718142)
+![image](https://github.com/Kunull/Blog/assets/110326359/465e701e-4953-4028-bbda-566be24618ab)
 
 ## How I got the exam voucher
 
