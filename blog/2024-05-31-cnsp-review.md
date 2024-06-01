@@ -27,7 +27,7 @@ The exam uses a proctoring software to check your microphone and camera for the 
 The exam duration was 1 hour wwith 60 questions to be attempted.
 With all questions being theory MCQs, this wasn't a very daunting task.
 
-I managed to finish the exam in around 30 minutes an pass with merit (<75%).
+I managed to finish the exam in around 30 minutes an pass with merit (less than or equal to 75%).
 
 ## Parting thoughts
 
