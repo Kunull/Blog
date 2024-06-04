@@ -33,4 +33,4 @@ I managed to finish the exam in around 30 minutes and pass with merit (75% or ab
 
 The original price for the certification is $100 USD. The certification covers a lot of topics, although since I only had the exam voucher, I cannot make any statement regarding the material.
 
-As for the exam, I found the experience to be prettu smooth and it served as an opportunity to test my basics.
+As for the exam, I found the experience to be pretty smooth and it served as an opportunity to test my basics.
