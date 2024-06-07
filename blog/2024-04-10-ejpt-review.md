@@ -36,7 +36,7 @@ However, with CTFs being my main source of learning (see my [Writeups](https://w
 
 So let me save you the trouble and tell you myself: 
 
-#### You are supposed to perform all the steps you would perform in a real pentest. The reason being, that INE checks the logs created on the attacker machine to give you points. So even if you do not see a question pertaining to a certain phase in the "Pentesting methodology", you still must perform it.
+**You are supposed to perform all the steps you would perform in a real pentest. The reason being, that INE checks the logs created on the attacker machine to give you points. So even if you do not see a question pertaining to a certain phase in the "Pentesting methodology", you still must perform it.**
 
 
 
