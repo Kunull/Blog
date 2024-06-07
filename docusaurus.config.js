@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Blog',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/null_medium.png',
+  favicon: 'img/0_medium.png',
 
   // Set the production url of your site here
   url: 'https://blog-kunull.vercel.app/',
@@ -68,7 +68,7 @@ const config = {
         title: 'Blog | Kunull',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/null_medium.png',
+          src: 'img/0_medium.png',
         },
 
         items: [
