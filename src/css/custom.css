@@ -284,7 +284,7 @@ nav.menu_SIkG {
 /* Top */
 .sidebar_re4s {
     position: sticky;
-    top: calc(var(--ifm-navbar-height)) !important;
+    top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
     max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
 }
 
