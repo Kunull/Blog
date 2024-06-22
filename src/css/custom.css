@@ -261,11 +261,11 @@ nav.menu_SIkG {
 }
 
 /* Mobile version */
-/* .navbar-sidebar__item {
+.navbar-sidebar__item {
     flex-shrink: 0;
     padding: 1rem 1.5rem;
     width: calc(var(--ifm-navbar-sidebar-width));
-} */
+}
 
 /* Top */
 /* .sidebar_re4s {
