@@ -267,6 +267,11 @@ nav.menu_SIkG {
     width: calc(var(--ifm-navbar-sidebar-width));
 }
 
+/* Top margin */
+.sidebarItem__DBe {
+    margin-top: 1rem;
+}
+
 /* Top */
 /* .sidebar_re4s {
     position: sticky;
