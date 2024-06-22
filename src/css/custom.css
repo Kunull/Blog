@@ -290,9 +290,18 @@ nav.menu_SIkG {
     max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
 }
 
+/* Background color */
 .sidebarItemLinkActive_I1ZP {
     color: var(--ifm-color-primary) !important;
     background: var(--ifm-menu-color-background-hover) !important;
+}
+
+/* Padding, Border radius */
+.sidebarItemLink_mo7H {
+    color: var(--ifm-font-color-base);
+    display: block;
+    padding: var(--ifm-menu-link-padding-vertical) var(--ifm-menu-link-padding-horizontal);
+    border-radius: .25rem;
 }
 
 
