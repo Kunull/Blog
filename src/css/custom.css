@@ -283,8 +283,8 @@ nav.menu_SIkG {
 /* Top */
 .sidebar_re4s {
     position: sticky;
-    top: calc(var(--ifm-navbar-height) + 1.5rem);
-    max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem);
+    top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
+    max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
 }
 
 
@@ -305,7 +305,7 @@ nav.menu_SIkG {
 
 .tableOfContents_bqdL {
     position: sticky;
-    top: calc(var(--ifm-navbar-height) + 1.5rem);
+    top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
 }
 
 
