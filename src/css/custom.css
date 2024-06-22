@@ -304,6 +304,11 @@ nav.menu_SIkG {
     border-radius: .25rem;
 }
 
+/* Title */
+.sidebarItemTitle_pO2u {
+    display: none !important;   
+}
+
 
 
 /* IN PAGE ITEMS */
