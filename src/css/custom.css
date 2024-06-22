@@ -269,7 +269,7 @@ nav.menu_SIkG {
 
 /* Top margin */
 .sidebarItem__DBe {
-    margin-top: 1rem;
+    margin-top: 1rem !important;
 }
 
 /* Top */
