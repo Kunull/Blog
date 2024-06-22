@@ -133,7 +133,7 @@ code {
 }
 
 .margin-top--lg, .margin-vert--lg {
-    margin-top: 0 !important;
+    margin-top: 1.5 !important;
 }
 
 
@@ -164,7 +164,6 @@ code {
 /* 60% width */
 .col--7 {
     --ifm-col-width: 60%;
-    margin-top: 1.5rem;
 }
 
 /* Width */
