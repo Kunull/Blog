@@ -287,6 +287,10 @@ nav.menu_SIkG {
     max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
 }
 
+.sidebar_re4s {
+    margin-top: -1.5rem;
+}
+
 
 
 /* IN PAGE ITEMS */
