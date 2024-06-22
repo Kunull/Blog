@@ -165,7 +165,7 @@ code {
 /* 60% width */
 .col--7 {
     --ifm-col-width: 60%;
-    margin-bottom: 0rem !important;
+    margin-bottom: 2rem !important;
 }
 
 /* Width */
