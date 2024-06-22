@@ -241,6 +241,7 @@ article {
 /* 20% width */
 .col--3 {
     --ifm-col-width: 20%;
+    border-right: 1px solid #333;
 }
 
 /* aside.docSidebarContainer_YfHR {
