@@ -1,5 +1,4 @@
 ---
-slug: /
 slug: starting-a-blog
 title: Starting a blog
 tags: [general]
