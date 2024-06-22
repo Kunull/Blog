@@ -252,23 +252,31 @@ nav.menu_SIkG {
   font-size: 0.9rem;
 }
 
+.menu__list .menu__list {
+    border-left: 1px solid #333;
+    flex: 0 0 100%;
+    margin-top: 0.25rem;
+    padding-left: 0.25rem;
+    margin-left: 0.75rem;
+}
+
 /* Mobile version */
-.navbar-sidebar__item {
+/* .navbar-sidebar__item {
     flex-shrink: 0;
     padding: 1rem 1.5rem;
     width: calc(var(--ifm-navbar-sidebar-width));
-}
+} */
 
 /* Top */
-.sidebar_re4s {
+/* .sidebar_re4s {
     position: sticky;
     top: 0;
-}
+} */
 
 /* Inner padding */
-.sidebar_re4s {
+/* .sidebar_re4s {
     padding: 0 1rem;
-}
+} */
 
 
 
