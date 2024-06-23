@@ -292,6 +292,7 @@ nav.menu_SIkG {
     padding-top: 1.5rem;
     padding-right: 1.5rem;
     margin-top: -1.5rem;
+    top: calc(var(--ifm-navbar-height));
 }
 
 /* Background color */
