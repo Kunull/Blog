@@ -324,13 +324,13 @@ nav.menu_SIkG {
   font-size: 0.9rem;
 }
 
-.menu__list .menu__list {
+.menu__list {
     border-left: 1px solid #333;
     flex: 0 0 100%;
     margin-top: 0.25rem;
     padding-left: 0.25rem;
     margin-left: 0.75rem;
-    line-height: 1.5;
+    line-height: 1.5 !important;
 }
 
 
