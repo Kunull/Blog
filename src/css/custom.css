@@ -283,6 +283,10 @@ nav.menu_SIkG {
     margin-top: 0.25rem !important;
 }
 
+.sidebarItem__DBe:first-child) {
+    margin-top: 0 !important;
+}
+
 /* Top */
 .sidebar_re4s {
     position: sticky;
