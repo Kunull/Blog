@@ -319,6 +319,12 @@ nav.menu_SIkG {
     width: calc(var(--ifm-navbar-sidebar-width));
 }
 
+.menu__link {
+    color: var(--ifm-menu-color);
+    flex: 1;
+    line-height: 1.5;
+}
+
 
 
 /* IN PAGE ITEMS */
