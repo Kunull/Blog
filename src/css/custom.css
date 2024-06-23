@@ -278,9 +278,10 @@ nav.menu_SIkG {
     width: calc(var(--ifm-navbar-sidebar-width));
 }
 
-/* Top margin */
+/* Margin */
 .sidebarItem__DBe:not(:first-child) {
     margin-top: 0.25rem !important;
+    margin-bottom: 0 !important;
 }
 
 .sidebarItem__DBe:first-child {
