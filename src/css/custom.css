@@ -287,8 +287,7 @@ nav.menu_SIkG {
 
 /* Top */
 .sidebar_re4s {
-    position: unset;
-    top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
+    position: unset !important;
     max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
     padding-top: 1.5rem;
     padding-right: 1.5rem;
