@@ -301,6 +301,9 @@ nav.menu_SIkG {
     color: var(--ifm-font-color-base);
     display: block;
     padding: var(--ifm-menu-link-padding-vertical) var(--ifm-menu-link-padding-horizontal);
+}
+
+.sidebarItemLink_mo7H:not(:first-child) {
     border-radius: .25rem;
 }
 
