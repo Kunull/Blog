@@ -288,9 +288,10 @@ nav.menu_SIkG {
 /* Top */
 .sidebar_re4s {
     position: unset !important;
-    max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
+    max-height: calc(100vh - var(--ifm-navbar-height)) !important;
     padding-top: 1.5rem;
     padding-right: 1.5rem;
+    margin-top: -1.5rem;
 }
 
 /* Background color */
