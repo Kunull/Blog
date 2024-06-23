@@ -258,7 +258,7 @@ nav.menu_SIkG {
   padding: 1.5rem 1.5rem 2rem 1.5rem;
 }
 
-/* .token-line {
+.token-line {
   color: #000;
 }
 
@@ -273,7 +273,7 @@ nav.menu_SIkG {
     margin-top: 0.25rem;
     padding-left: 0.25rem;
     margin-left: 0.75rem;
-} */
+}
 
 /* Margin */
 .sidebarItem__DBe:not(:first-child) {
@@ -317,20 +317,6 @@ nav.menu_SIkG {
     flex-shrink: 0;
     padding: 1rem 1.5rem;
     width: calc(var(--ifm-navbar-sidebar-width));
-}
-
-.menu__list-item {
-  margin-top: 0.25rem;
-  font-size: 0.9rem;
-}
-
-.menu__list {
-    border-left: 1px solid #333;
-    flex: 0 0 100%;
-    margin-top: 0.25rem;
-    padding-left: 0.25rem;
-    margin-left: 0.75rem;
-    line-height: 1.5 !important;
 }
 
 
