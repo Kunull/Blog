@@ -245,6 +245,7 @@ article {
 
 /* 20% width */
 .col--3 {
+    padding-right: 0 !important;
     --ifm-col-width: 20%;
     border-right: 1px solid #333;
     margin-top: -1.5rem;
@@ -286,9 +287,11 @@ nav.menu_SIkG {
 
 /* Top */
 .sidebar_re4s {
-    position: sticky;
+    position: unset;
     top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
     max-height: calc(100vh - var(--ifm-navbar-height) - 1.5rem) !important;
+    padding-top: 1.5rem;
+    padding-right: 1.5rem;
 }
 
 /* Background color */
