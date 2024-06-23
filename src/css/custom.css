@@ -317,8 +317,8 @@ nav.menu_SIkG {
     display: none !important;   
 }
 
-sidebarItemList_Yudw {
-  margin-bottom: 0;
+.sidebarItemList_Yudw {
+  margin-bottom: 0 !important;
 }
 
 /* Mobile version */
