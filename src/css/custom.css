@@ -325,6 +325,9 @@ nav.menu_SIkG {
     line-height: 1.5;
 }
 
+.menu__link--active {
+    color: var(--ifm-color-primary) !important;
+}
 
 
 /* IN PAGE ITEMS */
