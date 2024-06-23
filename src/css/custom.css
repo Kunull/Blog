@@ -247,8 +247,7 @@ article {
 .col--3 {
     padding-right: 0 !important;
     --ifm-col-width: 20%;
-    border-right: 1px solid #333;
-/*     margin-top: -1.5rem; */
+    margin-top: -1.5rem;
 }
 
 /* aside.docSidebarContainer_YfHR {
@@ -292,7 +291,7 @@ nav.menu_SIkG {
     padding-top: 1.5rem;
     padding-right: 1.5rem;
     padding-bottom: 2rem;
-    margin-top: -1.5rem;
+/*     margin-top: -1.5rem; */
     top: calc(var(--ifm-navbar-height)) !important;
 }
 
