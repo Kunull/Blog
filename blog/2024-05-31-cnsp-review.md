@@ -1,7 +1,7 @@
 ---
 slug: cnsp-review
 title: Certified Network Security Practitioner review
-tags: [certification]
+tags: [Certification]
 ---
 
 I recently finished the CNSP certification. In this post, I will review the exam attempt only.
