@@ -40,7 +40,7 @@ After the installation is complete, you can verify that Docker has been installe
 docker --version
 ```
 
-Next we have to install Docker Composein our system using the following command.
+Next we have to install Docker Compose in our system using the following command.
 
 ```
 sudo apt install docker-compose
