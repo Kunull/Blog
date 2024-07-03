@@ -1,7 +1,7 @@
 ---
 slug: ejpt-review
 title: eLearnSecurity Junior Penetration Tester review
-tags: [certification]
+tags: [Certification]
 ---
 
 I have recently achieved my eJPT certification.
