@@ -1,7 +1,7 @@
 ---
 slug: starting-a-blog
 title: Starting a blog
-tags: [general]
+tags: [General]
 ---
 
 I have decided to document my experiences and learnings in the form of a blog.
