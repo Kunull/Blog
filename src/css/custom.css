@@ -299,7 +299,7 @@ nav.menu_SIkG {
 /* Background color */
 .sidebarItemLinkActive_I1ZP {
     color: var(--ifm-color-primary) !important;
-    background: var(--ifm-menu-color-background-hover) !important;
+    background: var(--ifm-menu-color-background-active) !important;
 }
 
 /* Padding, Border radius */
