@@ -1,7 +1,7 @@
 ---
 slug: setting-up-an-api-hacking-lab-in-kali-linux
 title: Setting up an API hacking lab in Kali Linux
-tags: [api security]
+tags: [API security]
 ---
 
 If you want to get started with API hacking, crAPI is one of the best resources to get hands-on practice.
