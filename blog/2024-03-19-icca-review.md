@@ -1,7 +1,7 @@
 ---
 slug: icca-review
 title: INE Certified Cloud Associate review
-tags: [certification]
+tags: [Certification]
 ---
 
 I recently passed the INE Certified Cloud Associate (ICCA) exam with a score of 95%. In this post I will review the exam material and the exam.
