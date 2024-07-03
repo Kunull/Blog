@@ -7,11 +7,11 @@
 
 @font-face {
   font-family: 'Input Sans';
-  src: url('/font/InputSans/InputSans/InputSans-Regular.ttf');
+  src: url('/font/InputSans/InputSans/InputSans-Regular.ttf') format("truetype");
 }
 
 :root {
-/*   --ifm-font-family-base: 'Roboto'; */
+  --ifm-font-family-base: 'Input Sans';
   --ifm-global-radius: 0.25rem;
   --ifm-code-border-radius: var(--ifm-global-radius);
   --ifm-font-weight-light: 300;
