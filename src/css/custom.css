@@ -8,7 +8,7 @@
 }
 
 :root {
-  --ifm-font-family-base: 'Open Sans';
+/*   --ifm-font-family-base: 'Open Sans'; */
   --ifm-font-family-monospace: 'JetBrains Mono';
   --ifm-global-radius: 0.25rem;
   --ifm-code-border-radius: var(--ifm-global-radius);
