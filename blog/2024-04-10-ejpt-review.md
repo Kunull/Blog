@@ -13,7 +13,7 @@ As such I will be reviewing my experience and providing some tips.
 
 
 ## Course material
-I managed to finish the trainig material in just under 30 days.
+I managed to finish the training material in just under 30 days.
 
 All of the courses are a must if you want to be a successful Penetration Tester. However, if your aim to just pass the exam, all the courses are not required to achieve that.
 I went through all the courses taught my [Alexis Ahmed](https://www.linkedin.com/in/alexisahmed/?originalSubdomain=ke).
