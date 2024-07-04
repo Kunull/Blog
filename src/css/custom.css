@@ -223,6 +223,14 @@ article {
   font-weight: var(--ifm-font-weight-normal) !important;
 }
 
+.text--truncate::after {
+  content: "/ BLOG ►"
+}
+
+.text--truncate:hover::after {
+  content: "/ 8L06 ►"
+}
+
 
 
 /* NAVBAR DROPDOWN */
