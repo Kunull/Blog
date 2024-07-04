@@ -211,10 +211,10 @@ article {
 .navbar__inner {
     margin: 0 auto;
     max-width: 1460px;
-}
+/* } */
 
 /* Title logo */
-.text--truncate {
+/* .text--truncate { */
   font-family: 'VCR OSD Mono';
   text-transform: uppercase;
   font-weight: var(--ifm-font-weight-normal) !important;
