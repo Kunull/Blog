@@ -6,6 +6,11 @@
   src: url('/font/InputSans/InputSans/InputSans-Regular.ttf') format("truetype");
 }
 
+@font-face {
+  font-family: 'VCR OSD Mono';
+  src: url('/font/VCR OSD Mono/VCR.ttf') format("truetype");
+}
+
 :root {
   --ifm-font-family-base: 'Roboto';
   --ifm-font-family-monospace: 'JetBrains Mono';
@@ -206,6 +211,13 @@ article {
 .navbar__inner {
     margin: 0 auto;
     max-width: 1460px;
+}
+
+/* Title logo */
+.text--truncate {
+  font-family: 'VCR OSD Mono';
+  text-transform: uppercase;
+  font-weight: var(--ifm-font-weight-normal) !important;
 }
 
 
