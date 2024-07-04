@@ -224,11 +224,11 @@ article {
 }
 
 .text--truncate::after {
-  content: "/ BLOG ►"
+  content: " BLOG ►"
 }
 
 .text--truncate:hover::after {
-  content: "/ 8L06 ►"
+  content: " 8L06 ►"
 }
 
 
