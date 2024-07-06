@@ -378,7 +378,7 @@ nav.menu_SIkG {
 }
 
 
-/* IN PAGE ITEMS */
+/* TABLE OF CONTENTS */
 
 /* 20% width */
 .col--2 {
@@ -396,6 +396,10 @@ nav.menu_SIkG {
 .tableOfContents_bqdL {
     position: sticky;
     top: calc(var(--ifm-navbar-height) + 1.5rem) !important;
+}
+
+.table-of-contents {
+  font-size: 0.9rem;
 }
 
 
