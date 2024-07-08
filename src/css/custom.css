@@ -226,13 +226,14 @@ article {
 
 /* Title logo */
 .text--truncate {
-  font-size: 1.75rem;
+  font-size: 0;
   font-family: 'VCR OSD Mono';
   text-transform: uppercase;
   font-weight: var(--ifm-font-weight-normal) !important;
 }
 
 .text--truncate::after {
+  font-size: 1.75rem;
   content: "/ BLOG ►"
 }
 
