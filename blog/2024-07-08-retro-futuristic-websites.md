@@ -4,7 +4,9 @@ title: Retro-futuristic, Retro, Futuristic websites
 tags: [CRT, Retro, Futuristic]
 ---
 
-It's not the usual topic of this blog, but one of my hobbies includes web design. Here's a few that I absolutely love. As you will see, I have a thing for CRT, retro-futuristic websites.
+It's not the usual topic of this blog, but one of my hobbies includes checking out cool websites. 
+Here's a few that I absolutely love. 
+As you will see, I have a thing for CRT, retro-futuristic websites.
 
 <!-- truncate -->
 
