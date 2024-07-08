@@ -12,7 +12,7 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 &nbsp;
 
-## 0x01. sector32.net
+## sector32.net
 
 ### Link
 [https://sector32.net/](https://sector32.net/)
@@ -25,7 +25,7 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 &nbsp;
 
-## 0x02. story.sector32.net
+## story.sector32.net
 
 ### Link
 [https://story.sector32.net/](https://story.sector32.net/)
@@ -38,7 +38,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x03. abadi.codes
+## abadi.codes
 
 ### Link
 [https://abadi.codes](https://abadi.codes)
@@ -48,7 +48,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x04. pinnacledesignlab.com
+## pinnacledesignlab.com
 
 ### Link
 [https://www.pinnacledesignlab.com/](https://www.pinnacledesignlab.com/)
@@ -58,7 +58,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x05. revenant.tv
+## revenant.tv
 
 ### Link
 [https://revenant.tv/](https://revenant.tv/)
@@ -69,7 +69,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x06. www.marathonthegame.com
+## www.marathonthegame.com
 
 ### Link
 [https://www.marathonthegame.com/](https://www.marathonthegame.com/)
@@ -80,7 +80,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x07. dimden.dev
+## dimden.dev
 
 ### Link
 [https://dimden.dev/](https://dimden.dev/)
@@ -90,7 +90,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## 0x08. hlo.io
+## hlo.io
 [https://hle.io/](https://hle.io/)
 
 ### Preview
