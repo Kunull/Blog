@@ -12,9 +12,8 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 &nbsp;
 
-## sector32.net
+## Sector 32
 
-### Link
 [https://sector32.net/](https://sector32.net/)
 
 ### Preview
@@ -25,9 +24,7 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 &nbsp;
 
-## story.sector32.net
-
-### Link
+## Sector 32 Story
 [https://story.sector32.net/](https://story.sector32.net/)
 
 ### Preview
@@ -38,9 +35,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## abadi.codes
-
-### Link
+## Baladi codes
 [https://abadi.codes](https://abadi.codes)
 
 ### Preview
@@ -48,9 +43,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## pinnacledesignlab.com
-
-### Link
+## Pinnacle Design Lab
 [https://www.pinnacledesignlab.com/](https://www.pinnacledesignlab.com/)
 
 ### Preview
@@ -58,9 +51,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## revenant.tv
-
-### Link
+## Revenant studio
 [https://revenant.tv/](https://revenant.tv/)
 
 ### Preview
@@ -69,9 +60,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## www.marathonthegame.com
-
-### Link
+## Marathon the game
 [https://www.marathonthegame.com/](https://www.marathonthegame.com/)
 
 ### Preview
@@ -80,9 +69,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## dimden.dev
-
-### Link
+## dimden's hotel
 [https://dimden.dev/](https://dimden.dev/)
 
 ### Preview
@@ -90,8 +77,16 @@ The best part about this website is that it is made entirely using HTML and CSS.
 
 &nbsp;
 
-## hlo.io
+## HLE
 [https://hle.io/](https://hle.io/)
 
 ### Preview
 ![image](https://github.com/Kunull/Blog/assets/110326359/4f3bd8b6-b898-4216-8e36-93ac53b0cdf9)
+
+&nbsp;
+
+## Paco Lui
+[https://pacolui.com](https://pacolui.com)
+
+### Preview
+![image](https://github.com/Kunull/Blog/assets/110326359/4dd78782-e503-49d7-bf23-d4a6574befe9)
