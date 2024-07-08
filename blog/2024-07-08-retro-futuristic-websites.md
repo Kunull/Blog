@@ -10,8 +10,6 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 <!-- truncate -->
 
-> <script>alert(1)</script>
-
 &nbsp;
 
 ## Sector 32
