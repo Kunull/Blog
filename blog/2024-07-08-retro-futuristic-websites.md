@@ -10,6 +10,8 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 <!-- truncate -->
 
+&nbsp;
+
 ## 0x01. sector32.net
 
 ### Link
@@ -21,7 +23,7 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 ![image](https://github.com/Kunull/Blog/assets/110326359/ab7e15da-91d5-49fb-87f8-ea2d0b19a6a3)
 ![image](https://github.com/Kunull/Blog/assets/110326359/beb2a0b6-afa7-483f-aed3-1614be76aca9)
 
-
+&nbsp;
 
 ## 0x02. story.sector32.net
 
@@ -34,6 +36,7 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 
 The best part about this website is that it is made entirely using HTML and CSS. As a result, it is blazing fast even with all the animations and interactions.
 
+&nbsp;
 
 ## 0x03. abadi.codes
 
@@ -43,6 +46,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 ### Preview
 ![image](https://github.com/Kunull/Blog/assets/110326359/c949f918-651d-412b-8fac-71742d6bfcc7)
 
+&nbsp;
 
 ## 0x04. pinnacledesignlab.com
 
@@ -52,6 +56,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 ### Preview
 ![image](https://github.com/Kunull/Blog/assets/110326359/9b6085c8-7e3c-4c10-b178-f5fc900f1a27)
 
+&nbsp;
 
 ## 0x05. revenant.tv
 
@@ -62,6 +67,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 ![image](https://github.com/Kunull/Blog/assets/110326359/99e479d6-708b-4cbb-8ee8-4d8eeb4e8dcd)
 ![image](https://github.com/Kunull/Blog/assets/110326359/774b2bd5-e17a-49a2-834c-a81cf407f5e0)
 
+&nbsp;
 
 ## 0x06. www.marathonthegame.com
 
@@ -72,6 +78,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 ![image](https://github.com/Kunull/Blog/assets/110326359/64ec6390-b2f6-4442-b880-d7c2f511d1fe)
 ![image](https://github.com/Kunull/Blog/assets/110326359/89851f67-6686-41b7-b895-7300fb8ce3d6)
 
+&nbsp;
 
 ## 0x07. dimden.dev
 
