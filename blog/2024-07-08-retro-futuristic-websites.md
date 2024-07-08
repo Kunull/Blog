@@ -1,6 +1,6 @@
 ---
 slug: retro-futuristic-websites
-title: Retro-futuristic, Retro, Futuristic websites
+title: Retro-futuristic, retro and futuristic websites
 tags: [CRT, Retro, Futuristic]
 ---
 
