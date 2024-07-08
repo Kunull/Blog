@@ -17,4 +17,4 @@ Topics covered will mostly include:
 - Conference experince (If I get the time to visit any)
 - Some technology that I am interested in
 
-Blog post of similar topics will be found under the same tag.
+Blogs post of similar topics can be found under the same tag.
