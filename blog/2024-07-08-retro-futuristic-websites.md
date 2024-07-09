@@ -90,3 +90,20 @@ Preview:
 
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/4dd78782-e503-49d7-bf23-d4a6574befe9)
+
+&nbsp;
+
+## Degenesis
+[https://degenesis.com/](https://degenesis.com/)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/8bcbc8f4-719d-4f77-8a1a-915e6e9c1465)
+
+&nbsp;
+
+## Fabio Carretti
+[https://www.crrtt.com/](https://www.crrtt.com/)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/a34cff42-4f8e-4cb7-b2a9-d526ef1b2d30)
+![image](https://github.com/Kunull/Blog/assets/110326359/459cbb57-c3f9-499f-9c4f-e310ec92e649)
