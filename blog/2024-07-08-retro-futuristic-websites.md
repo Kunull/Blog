@@ -135,3 +135,20 @@ Preview:
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/4c22167d-e055-402b-bced-4d3cc3fed0a4)
 ![image](https://github.com/Kunull/Blog/assets/110326359/2cced44a-2485-4bd5-9a97-2b1b3d5f2714)
+
+&nbsp;
+
+## Zach Caceres
+[https://zach.dev](https://zach.dev)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/e766081f-c792-457f-a3ed-5df1499412be)
+![image](https://github.com/Kunull/Blog/assets/110326359/33c71fa0-9d7f-402a-b4ea-1891a1bc4b1c)
+
+&nbsp;
+
+## N-O-D-E
+[https://n-o-d-e.net](https://n-o-d-e.net)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/e75818b9-f9ea-43c3-827d-40f74bddcb88)
