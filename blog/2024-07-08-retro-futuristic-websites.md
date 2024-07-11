@@ -115,3 +115,14 @@ Preview:
 
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/9f243ac4-2650-4777-aa77-653da37a047f)
+
+&nbsp;
+
+## Dylan Bartoli
+[https://dylanbartoli.com](https://dylanbartoli.com)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/7e7b1ee4-9778-424a-94d8-a9c8eb28b889)
+![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
+![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
+![image](https://github.com/Kunull/Blog/assets/110326359/d55e7fe9-d404-4b4f-941d-f9e5e9433f91)
