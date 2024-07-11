@@ -126,3 +126,12 @@ Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
 ![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
 ![image](https://github.com/Kunull/Blog/assets/110326359/d55e7fe9-d404-4b4f-941d-f9e5e9433f91)
+
+&nbsp;
+
+## Tropical's website
+[https://tropical.nekoweb.org/](https://tropical.nekoweb.org/)
+
+Preview:
+![image](https://github.com/Kunull/Blog/assets/110326359/4c22167d-e055-402b-bced-4d3cc3fed0a4)
+![image](https://github.com/Kunull/Blog/assets/110326359/2cced44a-2485-4bd5-9a97-2b1b3d5f2714)
