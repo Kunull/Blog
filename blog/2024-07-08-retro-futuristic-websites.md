@@ -36,7 +36,7 @@ The best part about this website is that it is made entirely using HTML and CSS.
 &nbsp;
 
 ## Baladi codes
-[https://abadi.codes](https://abadi.codes)
+[https://baladi.codes](https://baladi.codes)
 
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/c949f918-651d-412b-8fac-71742d6bfcc7)
