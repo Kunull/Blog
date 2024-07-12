@@ -192,7 +192,7 @@ Preview:
 
 Preview:
 ![image](https://github.com/user-attachments/assets/05c7cfd2-b959-4a32-9f26-65044aebd1e4)
-![image](https://github.com/user-attachments/assets/54b9c11b-c497-45e9-986a-f0e75cd72d9d)
+![image](https://github.com/user-attachments/assets/04fdcafb-7cb5-41ff-8dda-35eea7862974)
 ![image](https://github.com/user-attachments/assets/13b173dc-9161-4215-b4ed-9107cb89dec7)
 
 &nbsp;
