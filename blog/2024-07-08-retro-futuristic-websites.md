@@ -177,3 +177,21 @@ Preview:
 ![image](https://github.com/user-attachments/assets/d95d3158-432e-440c-92bd-94f99038d732)
 ![image](https://github.com/user-attachments/assets/2631487f-9d73-4de6-bbe5-6a9aabbe082b)
 
+&nbsp;
+
+## Synthia
+[https://synthia.love](https://synthia.love)
+
+Preview:
+![image](https://github.com/user-attachments/assets/d1ec7cf9-9a0c-4ef1-ad63-e77ee4f2f558)
+
+&nbsp;
+
+## Criminal Omsk
+[https://crimes-of-omsk.webflow.io/en](https://crimes-of-omsk.webflow.io/en)
+
+Preview:
+![image](https://github.com/user-attachments/assets/05c7cfd2-b959-4a32-9f26-65044aebd1e4)
+![image](https://github.com/user-attachments/assets/54b9c11b-c497-45e9-986a-f0e75cd72d9d)
+![image](https://github.com/user-attachments/assets/13b173dc-9161-4215-b4ed-9107cb89dec7)
+
