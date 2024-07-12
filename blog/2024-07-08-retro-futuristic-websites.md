@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/23058145-32c4-4e96-8908-6315f84ebd00)---
 slug: retro-futuristic-websites
 title: Retro-futuristic, retro and futuristic websites
 tags: [CRT, Retro, Futuristic]
@@ -13,7 +13,6 @@ As you will see, I have a thing for CRT, retro-futuristic websites.
 &nbsp;
 
 ## Sector 32
-
 [https://sector32.net/](https://sector32.net/)
 
 Preview:
@@ -152,3 +151,11 @@ Preview:
 
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/e75818b9-f9ea-43c3-827d-40f74bddcb88)
+
+&nbsp;
+
+## Cure53
+[https://cure53.de](https://cure53.de)
+
+Preview
+![image](https://github.com/user-attachments/assets/3c1da79d-ba55-4dc8-97cb-6b98f3ef11b5)
