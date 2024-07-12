@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23058145-32c4-4e96-8908-6315f84ebd00)---
+---
 slug: retro-futuristic-websites
 title: Retro-futuristic, retro and futuristic websites
 tags: [CRT, Retro, Futuristic]
