@@ -76,7 +76,7 @@ Preview:
 
 &nbsp;
 
-## HLE
+## Hind-Laskos Entertainment
 [https://hle.io/](https://hle.io/)
 
 Preview:
