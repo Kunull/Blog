@@ -159,3 +159,11 @@ Preview:
 
 Preview
 ![image](https://github.com/user-attachments/assets/3c1da79d-ba55-4dc8-97cb-6b98f3ef11b5)
+
+&nbsp;
+
+## LOOX Studios' Lost In Space
+[https://loox.app/lost-in-space](https://loox.app/lost-in-space)
+
+Preview:
+![image](https://github.com/user-attachments/assets/05820070-b20f-4d4a-b4cc-94ead21796d3)
