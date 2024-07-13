@@ -79,12 +79,16 @@ const config = {
             position: 'right',
             items: [
               {
-                label: 'Write-ups',
+                label: 'Reports',
+                href: 'https://reports-kunull.vercel.app',
+              },
+              {
+                label: 'Writeups',
                 href: 'https://writeups-kunull.vercel.app',
               },
               {
                 label: 'Main site',
-                href: 'https://kunalwalavalkar.vercel.app',
+                href: 'https://kunull.vercel.app',
               },
             ],
           },
