@@ -202,3 +202,11 @@ Preview:
 
 Preview:
 ![image](https://github.com/user-attachments/assets/8f5bdbd1-63da-4424-9496-d357956c6f67)
+
+&nbsp;
+
+Operation Zero
+[https://opzero.ru/en/](https://opzero.ru/en/)
+
+Preview:
+![image](https://github.com/user-attachments/assets/d4e3810d-9abe-409b-a8b3-62ec45648ea0)
