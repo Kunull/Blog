@@ -20,7 +20,7 @@ This list is not extensive and there might be ones I am missing.
 [https://www.ey.com/en_gl](https://www.ey.com/en_gl)
 
 
-## Delloite
+## Deloitte
 [https://www2.deloitte.com/us/en.html](https://www2.deloitte.com/us/en.html)
 
 
