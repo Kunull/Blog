@@ -5,7 +5,7 @@ tags: [Jobs]
 ---
 
 In this post I have listed firms / companies that have Cyber Security positions. 
-The goal is to assist during job appliactions as a check-list.
+The goal is to assist during job applications as a check-list.
 This list is not extensive and there might be ones I am missing.
 
 <!-- truncate -->
