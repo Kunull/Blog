@@ -123,7 +123,6 @@ Preview:
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/7e7b1ee4-9778-424a-94d8-a9c8eb28b889)
 ![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
-![image](https://github.com/Kunull/Blog/assets/110326359/b3903c63-f9d9-4439-bcd1-bf941e99e7e6)
 ![image](https://github.com/Kunull/Blog/assets/110326359/d55e7fe9-d404-4b4f-941d-f9e5e9433f91)
 
 &nbsp;
