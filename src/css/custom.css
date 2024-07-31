@@ -525,3 +525,15 @@ html[data-theme=dark] {
     max-width: 150px;
     filter: grayscale(1) !important;
 }
+
+
+
+/* ARCHIVE */
+.hero--primary {
+    --ifm-hero-background-color: #000;
+    --ifm-hero-text-color: #fff;
+}
+
+.hero__subtitle {
+  display: none;
+}
