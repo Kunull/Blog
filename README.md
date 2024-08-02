@@ -1,1 +1,1 @@
-Technical blog.
+Blog covering technical topics of my interest.
