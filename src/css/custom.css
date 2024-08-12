@@ -402,6 +402,7 @@ nav.menu_SIkG {
     --ifm-col-width: 20%;
 /*     display: none; */
     padding-left: 0;
+    padding-right: 1rem;
     margin-bottom: 2rem !important;
 }
 
