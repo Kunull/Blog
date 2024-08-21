@@ -118,6 +118,10 @@ const config = {
                 label: 'Email',
                 href: 'mailto:kunull.contact@protonmail.com',
               },
+              {
+                label: 'Matrix',
+                href: 'https://matrix.to/#/@kunull:matrix.org',
+              },
             ],
           },
           
