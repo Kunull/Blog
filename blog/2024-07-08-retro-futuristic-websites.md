@@ -1,5 +1,5 @@
 ---
-slug: retro-futuristic-websites
+slug: cool-websites
 title: Retro-futuristic, retro and futuristic websites
 tags: [CRT, Retro, Futuristic]
 ---
@@ -209,3 +209,11 @@ Preview:
 
 Preview:
 ![image](https://github.com/user-attachments/assets/d4e3810d-9abe-409b-a8b3-62ec45648ea0)
+
+&nbsp;
+
+## Arthur Wallendorff
+[https://wallenart.dev/](https://wallenart.dev/)
+
+Preview:
+![image](https://github.com/user-attachments/assets/cfcc7961-4ce3-4f35-9764-e1d008d6c725)
