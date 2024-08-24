@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/0_medium.png',
 
   // Set the production url of your site here
-  url: 'https://blog-kunull.vercel.app/',
+  url: 'https://blog.kunull.net/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -80,15 +80,15 @@ const config = {
             items: [
               {
                 label: 'Reports',
-                href: 'https://reports-kunull.vercel.app',
+                href: 'https://reports.kunull.net/',
               },
               {
                 label: 'Writeups',
-                href: 'https://writeups-kunull.vercel.app',
+                href: 'https://writeups.kunull.net/',
               },
               {
                 label: 'Main site',
-                href: 'https://kunull.vercel.app',
+                href: 'https://kunull.net/',
               },
             ],
           },
@@ -116,7 +116,7 @@ const config = {
             items: [
               {
                 label: 'Email',
-                href: 'mailto:kunull.contact@protonmail.com',
+                href: 'mailto:contact@kunull.net',
               },
               {
                 label: 'Matrix',
