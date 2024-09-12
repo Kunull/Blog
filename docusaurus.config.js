@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Reports',
+  title: 'Blog',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/0_medium.png',
 
