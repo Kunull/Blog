@@ -13,8 +13,8 @@ This is going to compliment my [Writeups](https://kunalwalavalkarwrite-ups.verce
 Topics covered will mostly include:
 
 - Short guides
-- Certification / Course reviews
-- Conference experince (If I get the time to visit any)
+- Certification reviews
+- Conference experience (If I get the time to visit any)
 - Some technology that I am interested in
 
 Blogs post of similar topics can be found under the same tag.
