@@ -9,7 +9,7 @@ The posts will be about security and technology for now, but might cover other t
 
 <!-- truncate -->
 
-This is going to compliment my [Writeups](https://kunalwalavalkarwrite-ups.vercel.app/) collection.
+This is going to compliment my [research reports](https://reports.kunull.net) and my [CTF writeups](https://writeups.kunull.net/).
 Topics covered will mostly include:
 
 - Short guides
