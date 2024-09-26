@@ -1,6 +1,6 @@
 ---
-slug: cool-websites
-title: Retro-futuristic, retro and futuristic websites
+slug: some-cool-websites
+title: Some cool websites
 tags: [CRT, Retro, Futuristic]
 ---
 
