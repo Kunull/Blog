@@ -556,3 +556,11 @@ html[data-theme=dark] {
 .hero__subtitle {
   display: none;
 }
+
+
+
+/* External link arrow */
+
+.iconExternalLink_nPIU {
+  display: none;
+}
