@@ -79,15 +79,15 @@ const config = {
             position: 'right',
             items: [
               {
-                label: 'Reports',
+                label: 'reports.kunull.net',
                 href: 'https://reports.kunull.net/',
               },
               {
-                label: 'Writeups',
+                label: 'writeups.kunull.net',
                 href: 'https://writeups.kunull.net/',
               },
               {
-                label: 'Main site',
+                label: 'kunull.net',
                 href: 'https://kunull.net/',
               },
             ],
