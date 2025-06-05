@@ -58,8 +58,8 @@ html[data-theme='light'] .alert--info {
   --ifm-alert-border-color: var(--ifm-color-emphasis-200);
 }
 
-.hero__title, .title_f1Hy {
-    --ifm-h1-font-size: 2.5rem !important;
+.title_f1Hy {
+    font-size: 2.75rem !important; 
 }
 
 .markdown>h2 {
