@@ -225,3 +225,21 @@ Preview:
 
 Preview:
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/d3fcd4a8-b737-4118-8774-41cbdbf24150" />
+
+&nbsp;
+
+## OSIRIS labs
+[[URI](https://osiris.cyber.nyu.edu/)](https://osiris.cyber.nyu.edu/)
+
+Preview:
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/fd4e7e3b-a518-47cf-ab0a-d08f17011ecf" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4466b18b-1fe3-4871-93d1-d9a191a1d0cf" />
+
+&bbsp;
+
+## H4CKING.G00GL3
+[https://h4ck1ng.google/](https://h4ck1ng.google/)
+
+Preview:
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c7e75459-5ca0-43ec-976d-e1f6db534d79" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ab53a143-1403-48e4-9703-189b2678f238" />
