@@ -256,5 +256,14 @@ Preview:
 
 &nbsp;
 
+## HUXLEY 
+[https://www.huxleysaga.com/](https://www.huxleysaga.com/)
+
+Super cool comic with a super cool website.
+
+Preview:
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7ac94ab-1ad8-4d14-a899-6d51d5d1544a" />
+
+
 ## Chartogne-Taillet
 [https://chartogne-taillet.com/en](https://chartogne-taillet.com/en)
