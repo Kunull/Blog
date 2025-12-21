@@ -264,6 +264,11 @@ Super cool comic with a super cool website.
 Preview:
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7ac94ab-1ad8-4d14-a899-6d51d5d1544a" />
 
+&nbsp;
 
 ## Chartogne-Taillet
 [https://chartogne-taillet.com/en](https://chartogne-taillet.com/en)
+
+Preview:
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/de876531-7ce9-453c-8879-bf9dfb1e9298" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c79981c5-03d2-4727-bc79-0b729d0c187f" />
