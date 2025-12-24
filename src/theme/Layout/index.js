@@ -1,19 +1,25 @@
 import React from 'react';
 import Layout from '@theme-original/Layout';
 import Head from '@docusaurus/Head';
-import { useTitleFormatter } from '@docusaurus/theme-common/internal';
+import { useDocusaurusContext } from '@docusaurus/core';
 
 export default function LayoutWrapper(props) {
-  const formatTitle = useTitleFormatter(' // ');
-  const title = formatTitle(props.title);
+  const {
+    siteConfig: { title: siteTitle },
+  } = useDocusaurusContext();
+
+  const pageTitle = props.title;
+
+  let fullTitle = siteTitle;
+  if (pageTitle && pageTitle !== siteTitle) {
+    fullTitle = `${pageTitle} // ${siteTitle}`;
+  }
 
   return (
     <>
-      {title && (
-        <Head>
-          <title>{title}</title>
-        </Head>
-      )}
+      <Head>
+        <title>{fullTitle}</title>
+      </Head>
       <Layout {...props} />
     </>
   );
