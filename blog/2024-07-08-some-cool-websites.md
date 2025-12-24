@@ -110,7 +110,7 @@ Preview:
 &nbsp;
 
 ## Couture Culture
-[https://coutureculture.com](https://coutureculture.com)
+[https://www.neoculturalcouture.com/](https://www.neoculturalcouture.com/)
 
 Preview:
 ![image](https://github.com/Kunull/Blog/assets/110326359/9f243ac4-2650-4777-aa77-653da37a047f)
