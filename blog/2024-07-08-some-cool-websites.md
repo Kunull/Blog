@@ -232,8 +232,8 @@ Preview:
 [https://osiris.cyber.nyu.edu/](https://osiris.cyber.nyu.edu/)
 
 Preview:
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/fd4e7e3b-a518-47cf-ab0a-d08f17011ecf" />
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4466b18b-1fe3-4871-93d1-d9a191a1d0cf" />
+<img alt="image" src="https://github.com/user-attachments/assets/fd4e7e3b-a518-47cf-ab0a-d08f17011ecf" />
+<img alt="image" src="https://github.com/user-attachments/assets/4466b18b-1fe3-4871-93d1-d9a191a1d0cf" />
 
 &nbsp;
 
@@ -241,8 +241,8 @@ Preview:
 [https://h4ck1ng.google/](https://h4ck1ng.google/)
 
 Preview:
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c7e75459-5ca0-43ec-976d-e1f6db534d79" />
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ab53a143-1403-48e4-9703-189b2678f238" />
+<img alt="image" src="https://github.com/user-attachments/assets/c7e75459-5ca0-43ec-976d-e1f6db534d79" />
+<img alt="image" src="https://github.com/user-attachments/assets/ab53a143-1403-48e4-9703-189b2678f238" />
 
 &nbsp;
 
@@ -250,9 +250,9 @@ Preview:
 [https://2025.ctf.mt/](https://2025.ctf.mt/)
 
 Preview:
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e52c9c0b-91e4-4ae4-bd5d-532c3d6921d2" />
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/abf00f9d-43f7-4598-a1db-3975cab28de1" />
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/50db0a96-af6f-48a6-9e3d-d603be9111fb" />
+<img alt="image" src="https://github.com/user-attachments/assets/e52c9c0b-91e4-4ae4-bd5d-532c3d6921d2" />
+<img alt="image" src="https://github.com/user-attachments/assets/abf00f9d-43f7-4598-a1db-3975cab28de1" />
+<img alt="image" src="https://github.com/user-attachments/assets/50db0a96-af6f-48a6-9e3d-d603be9111fb" />
 
 &nbsp;
 
@@ -262,7 +262,7 @@ Preview:
 Super cool comic with a super cool website.
 
 Preview:
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7ac94ab-1ad8-4d14-a899-6d51d5d1544a" />
+<img alt="image" src="https://github.com/user-attachments/assets/f7ac94ab-1ad8-4d14-a899-6d51d5d1544a" />
 
 &nbsp;
 
@@ -270,5 +270,13 @@ Preview:
 [https://chartogne-taillet.com/en](https://chartogne-taillet.com/en)
 
 Preview:
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/de876531-7ce9-453c-8879-bf9dfb1e9298" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c79981c5-03d2-4727-bc79-0b729d0c187f" />
+<img alt="image" src="https://github.com/user-attachments/assets/de876531-7ce9-453c-8879-bf9dfb1e9298" />
+<img alt="image" src="https://github.com/user-attachments/assets/c79981c5-03d2-4727-bc79-0b729d0c187f" />
+
+&nbsp;
+
+## SKID.CLUB
+[https://skid.club/](https://skid.club/)
+
+Preview:
+<img alt="image" src="https://github.com/user-attachments/assets/1ec391b9-a6d8-46c7-b1e5-a75ea2c190df" />
