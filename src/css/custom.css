@@ -380,9 +380,10 @@ nav.menu_SIkG {
     font-weight: var(--ifm-font-weight-normal);
 }
 
+/* hover */
 .sidebarItemLink_mo7H:hover {
     background-color: #141414;
-    color: #000;
+    color: #fff;
 }
   
 /* Title */
