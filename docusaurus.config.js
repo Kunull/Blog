@@ -79,8 +79,8 @@ const config = {
             position: 'right',
             items: [
               {
-                label: 'Reports',
-                href: 'https://reports.kunull.net/',
+                label: 'Research',
+                href: 'https://research.kunull.net/',
               },
               {
                 label: 'Writeups',
